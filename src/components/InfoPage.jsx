@@ -1,9 +1,9 @@
 import styled from "styled-components";
 import React from "react";
-import {BiLinkExternal, GiPodiumWinner} from "react-icons/all";
+import {BiLinkExternal} from "react-icons/bi";
 import judges_2024 from "./info-page-imgs/judges_2024.jpeg"
 import poster_2 from "./rfs-page-imgs/rfs.png";
-import poster_1 from "./info-page-imgs/Poster_2024_ua.png";
+import poster_1 from "./info-page-imgs/Poster_2025_ua.png";
 
 export const LinkContainer = styled.div`
   display: flex;

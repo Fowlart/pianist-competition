@@ -1,7 +1,7 @@
 import React, {useEffect, useRef, useState} from "react";
 import styled, {keyframes} from "styled-components";
 import {useDispatch, useSelector} from "react-redux";
-import {FaFolder, FaUniversity} from "react-icons/all";
+import {FaFolder, FaUniversity} from "react-icons/fa";
 import useWindowDimensions from "../hooks/UseWindowDimensions";
 
 const FilterContainer = styled.div`

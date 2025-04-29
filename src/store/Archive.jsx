@@ -5511,10 +5511,3032 @@ let additionalInstruments = [
     }
 ]
 
+let concertmasters_3 = [
+    {
+        "videoUrl": "https://www.youtube.com/embed/FqcP1JROpx8",
+        "composition": "Р. Глієр. «Романс»",
+        "name": "Андрющенко Катерина, 17.01.2013 р. н.",
+        "id": {
+            "$oid": "1714682587.7707279"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/Kmhj3qfIgK4",
+        "composition": "Дж. Еллертон. Тарантела",
+        "name": "Андрющенко Катерина, 17.01.2013 р. н.",
+        "id": {
+            "$oid": "1714682587.7707374"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/HFgWD0T7OHc",
+        "composition": "1) Ю. Мейтус. «Рекрутська»; 2) Л. Деліб. Мазурка з балету «Коппелія»",
+        "name": "Гиря Андрій, 23.05.2008 р. н.",
+        "id": {
+            "$oid": "1714682587.7707393"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/UuitBHCltCw",
+        "composition": "В. Моцарт Рондо до мажор",
+        "name": "Горохівець Олександр, 16.11.2012 р. н.",
+        "id": {
+            "$oid": "1714682587.7707405"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/W7xENFihga4",
+        "composition": "Українська народна пісня в обр. А. Бойко «Вже місяць сходить»",
+        "name": "Горохівець Олександр, 16.11.2012 р. н.",
+        "id": {
+            "$oid": "1714682587.770743"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/Re3ysyTe9Ag",
+        "composition": "К. В. Глюк. Мелодія з опери «Орфей та Евридика»",
+        "name": "Губрієнко Софія, 11.11.2010 р. н.",
+        "id": {
+            "$oid": "1714682587.770744"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/g427rwR1az8",
+        "composition": "Й. Губаї. Болеро",
+        "name": "Губрієнко Софія, 11.11.2010 р. н.",
+        "id": {
+            "$oid": "1714682587.770745"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/9dTRyGmEvWI",
+        "composition": "1) О. Гончарук. Вальс; 2) Українська народні пісня «Місяць на небі» в обр. О. Агапової",
+        "name": "Зозуля Ілона, 26.10.2009 р. н.",
+        "id": {
+            "$oid": "1714682587.7707462"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/FepAs99hQ1E",
+        "composition": "1) І. Бах Арія «Пристрасті за Матфеєм», фрагмент; 2) В. Косенко. Скерцино",
+        "name": "Чеснокова Мілана, 12.06.2013 р. н.",
+        "id": {
+            "$oid": "1714682587.7707472"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/fMt1gx4VpRs",
+        "composition": "Муз. О. Білаша, сл. В. Юхимовича. «Журавка»",
+        "name": "Нотченко Вікторія, 28.07.2001 р. н.",
+        "id": {
+            "$oid": "1714682587.7707484"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/ySL2d1pMBnY",
+        "composition": "М. Скорик. «Іспанський танець»",
+        "name": "Нотченко Вікторія, 28.07.2001 р. н.",
+        "id": {
+            "$oid": "1714682587.7707493"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/CUQAO5cZU2I",
+        "composition": "М. Лисенко Елегія (пам'яті Т. Шевченка)",
+        "name": "Очиченко Катерина, 22.11.2004 р. н.",
+        "id": {
+            "$oid": "1714682587.7707505"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/-RKwZm_DuyA",
+        "composition": "П. Шольц Фантазія на тему української народної пісні «Верховина»",
+        "name": "Очиченко Катерина, 22.11.2004 р. н.",
+        "id": {
+            "$oid": "1714682587.7707515"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/azT_BuCLP5Y",
+        "composition": "Дж. Верді. Арія Леонори з опери «Сили долі»",
+        "name": "Яцішина Анна, 25.06.2005 р. н.",
+        "id": {
+            "$oid": "1714682587.7707524"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/ge5-JoWId0o",
+        "composition": "М. Брух. 8 п'єс для фортепіано та кларнета: №5, «Rumanische Melodie»",
+        "name": "Яцішина Анна, 25.06.2005 р. н.",
+        "id": {
+            "$oid": "1714682587.7707534"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/enfG2BUGcDc",
+        "composition": "І. Кушплер. «Ой, на горі роман цвіте»",
+        "name": "Іванческул Вікторія",
+        "id": {
+            "$oid": "1714682587.7707555"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/1wjmCuYk8Ec",
+        "composition": "П. Сарасате. «Циганські наспіви»",
+        "name": "Іванческул Вікторія",
+        "id": {
+            "$oid": "1714682587.7707567"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/r9RHkCXWjS4",
+        "composition": "1) О. Яковчук. «А вже весна»; 2) В.А. Моцарт. Арія Церліни з опери «Дон Жуан»",
+        "name": "Правосудович Анна",
+        "id": {
+            "$oid": "1714682587.7707577"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/AC0pv40Qgt0",
+        "composition": "З. Фібіх. «Поема» для скрипки з фортепіано",
+        "name": "Присакару Надія, 14.02.2002 р. н.",
+        "id": {
+            "$oid": "1714682587.7707586"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/m3HJk3wtjj4",
+        "composition": "К. Дебюссі. «Романс» ре мажор",
+        "name": "Присакару Надія, 14.02.2002 р. н.",
+        "id": {
+            "$oid": "1714682587.7707596"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/WVzdHCbFPZU",
+        "composition": "Муз. О. Білаша, сл. М. Ткача. «Білі лебеді»",
+        "name": "Сухонос Світлана, 26.06.1971 р. н.",
+        "id": {
+            "$oid": "1714682587.7707608"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/rtNOVW6mtz4",
+        "composition": "Л. Коган. Романс",
+        "name": "Сухонос Світлана, 26.06.1971 р. н.",
+        "id": {
+            "$oid": "1714682587.7707617"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/YxpqkSuQbfs",
+        "composition": "Муз. Я. Лопатинського, сл. Л. Українки «Горить моє серце»",
+        "name": "Циганюк Марія, 29.04.2001 р. н.",
+        "id": {
+            "$oid": "1714682587.7707627"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/qb_bygq2ufo",
+        "composition": "А. Дворжак. Сонатина соль мажор, 1 частина",
+        "name": "Циганюк Марія, 29.04.2001 р. н.",
+        "id": {
+            "$oid": "1714682587.7707636"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/rfb9qXvxOhw",
+        "composition": "Муз. А. Комлікової, сл. Л. Дубас «Пісня про маму»",
+        "name": "Бистрицька Д.Д.",
+        "id": {
+            "$oid": "1714682587.7707648"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/pjF0MOQkyCw",
+        "composition": "Українська пісня «Ой, у лузі» в авторській обробці",
+        "name": "Бистрицька Д.Д.",
+        "id": {
+            "$oid": "1714682587.7707672"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/u0ivpuOjhb0",
+        "composition": "З. Абреу. «Тіко-тіко»",
+        "name": "Воюцька Є. М.",
+        "id": {
+            "$oid": "1714682587.7707682"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/wXG6qrnTk6o",
+        "composition": "Українська колядка «Щедрик» (рок-версія)",
+        "name": "Воюцька Є. М.",
+        "id": {
+            "$oid": "1714682587.77077"
+        },
+        "group": "архів"
+    }
+].concat(
+    [
+    {
+        "videoUrl": "https://www.youtube.com/embed/cnJLRz7m_fw",
+        "composition": "В. Сокальський. «Канцонета»",
+        "name": "Свірчевська Олівія, 20.03.2023 р.н.",
+        "id": {
+            "$oid": "1714767944.3784525"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/8kj9WTcJI-s",
+        "composition": "К. Бом. «Галоп»",
+        "name": "Свірчевська Олівія, 20.03.2023 р.н.",
+        "id": {
+            "$oid": "1714767944.378463"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/_iXvfrP2FDY",
+        "composition": "Т Віталі. Чакона",
+        "name": "Мудра-Шендера Ю.В.",
+        "id": {
+            "$oid": "1714767944.378465"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/RBZkoAItkKg",
+        "composition": "Е. Млинарський. Мазурка",
+        "name": "Мудра-Шендера Ю.В.",
+        "id": {
+            "$oid": "1714767944.3784664"
+        },
+        "group": "архів"
+    }
+])
+
+let ensembles_2 = [
+    {
+        "videoUrl": "https://www.youtube.com/embed/enx53WP4hb8",
+        "composition": "Сарацький, переклад М. Канке. Коломийка",
+        "name": "Фортепіанний дует у складі Регнер Юліана та Середюк Ярослава",
+        "id": {
+            "$oid": "1714680121.8589563"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/3l_8XZNb4t0",
+        "composition": "Ю. Весняк, переклад В. Снігуренка. Джаз-вальс",
+        "name": "Фортепіанний дует у складі Регнер Юліана та Середюк Ярослава",
+        "id": {
+            "$oid": "1714680121.8589666"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/rBB-fw57Bac",
+        "composition": "Л. Іваненко. «Гуцульський танець»",
+        "name": "Фортепіанний дует у складі Глущенко Варвари та Глущенка Єгора",
+        "id": {
+            "$oid": "1714680121.8589685"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/v8sRqxCSJcw",
+        "composition": "Т. Петриненко, аранжування Н. Юзюк. «Україна»",
+        "name": "Фортепіанний дует у складі Глущенко Варвари та Глущенка Єгора",
+        "id": {
+            "$oid": "1714680121.8589709"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/KOAs4UmwaG8",
+        "composition": "Т. Афанасенко. «Добрий вечір, тобі»",
+        "name": "Фортепіанний дует у складі Іванової Емілії та Іванової Тетяни",
+        "id": {
+            "$oid": "1714680121.8589718"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/keBazW0t4fc",
+        "composition": "Т. Афанасенко. «Іди, іди, дощику».",
+        "name": "Фортепіанний дует у складі Іванової Емілії та Іванової Тетяни",
+        "id": {
+            "$oid": "1714680121.858973"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/_DnYiIG2PK0",
+        "composition": "І. Степанова-Боровська. «Українська мелодія»",
+        "name": "Фортепіанний дует у складі Доцяк Анни та Доцяк Марії",
+        "id": {
+            "$oid": "1714680121.858974"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/TnTwK_EReuw",
+        "composition": "Л. Карпенко. «Танець сніжинок»",
+        "name": "Фортепіанний дует у складі Доцяк Анни та Доцяк Марії",
+        "id": {
+            "$oid": "1714680121.858975"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/BcDgYEd3ZX4",
+        "composition": "Гімн України в обр. Т. Афанасенко.",
+        "name": "Фортепіанний ансамбль у складі Геляса Романа та Кльоц Ірини Василівни",
+        "id": {
+            "$oid": "1714680121.858976"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/FrggaA1KrNE",
+        "composition": "«Розпрягайте, хлопці, коней», обр. Т. Афанасенко",
+        "name": "Фортепіанний ансамбль у складі Геляса Романа та Кльоц Ірини Василівни",
+        "id": {
+            "$oid": "1714680121.8589773"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/SBizhJ1GKCs",
+        "composition": "О. Косилова. «Літній вечір»",
+        "name": "Фортепіанний дует у складі Свірчевської Деї та Сухацької Іванни",
+        "id": {
+            "$oid": "1714680121.8589783"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/6vQFARfQ6CU",
+        "composition": "О. Науменко. Коломийка",
+        "name": "Фортепіанний дует у складі Свірчевської Деї та Сухацької Іванни",
+        "id": {
+            "$oid": "1714680121.8589792"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/6cXW3BaLnhg",
+        "composition": "Д. Тартіні. Сарабанда соль мінор",
+        "name": "Фортепіанний дует у складі Єфименко Альони та Кобзар Майї",
+        "id": {
+            "$oid": "1714680121.8589804"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/QIWkFarlMoU",
+        "composition": "П. Захаров. «Жартівливий дивертисмент»",
+        "name": "Фортепіанний дует у складі Єфименко Альони та Кобзар Майї",
+        "id": {
+            "$oid": "1714680121.8589814"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/v6P1xQbvpYU",
+        "composition": "А. Кос-Анатольський. «Єсть на світі доля»",
+        "name": "Фортепіанний дует у складі Мих Роксоляни та Бекірової Каміли",
+        "id": {
+            "$oid": "1714680121.8589835"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/F3Z-uuqsXvY",
+        "composition": "Е. Брилін. «Подільська сюїта»",
+        "name": "Фортепіанний дует у складі Мих Роксоляни та Бекірової Каміли",
+        "id": {
+            "$oid": "1714680121.8589847"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/dVD0KfyhOOw",
+        "composition": "М. Скорик. «Мелодія»",
+        "name": "Фортепіанний дует у складі Шовгенюк  Ангеліни та Чемерис Поліни",
+        "id": {
+            "$oid": "1714680121.8589854"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/QxFW13U8WKk",
+        "composition": "П. Люіс, аранж. Т. Афанасенко. «Sway»",
+        "name": "Фортепіанний дует у складі Шовгенюк  Ангеліни та Чемерис Поліни",
+        "id": {
+            "$oid": "1714680121.8589869"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/i49fOFLgtms",
+        "composition": "1) М. Шентюрк. «Києве мій»; 2) О. Личкіна. «Канкан-жарт»",
+        "name": "Фортепіанний дует у складі Фреїшин Вікторії та Матійщук Євгенії",
+        "id": {
+            "$oid": "1714680121.8589876"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/JYZkfjBJSck",
+        "composition": "1) О. Личкіна. «Несе Галя воду»; 2) Ю. Шинкаренко. «Зебра у Африці»",
+        "name": "Фортепіанний дует у складі Марущак Вероніки та Шпака Дениса",
+        "id": {
+            "$oid": "1714680121.8589885"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/hZjSNVC9fLE",
+        "composition": "Г. Портнов. «Ухті-Тухті»",
+        "name": "Фортепіанний ансамбль у складі Дяблова Лева та Дяблової Злати",
+        "id": {
+            "$oid": "1714680121.8589895"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/PBFUFLuzhFg",
+        "composition": "Г. Колтунова. «Великий та маленький кактус танцюють польку»",
+        "name": "Фортепіанний ансамбль у складі Дяблова Лева та Дяблової Злати",
+        "id": {
+            "$oid": "1714680121.8589907"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/chKeNomnQto",
+        "composition": "В. А. Моцарт. Симфонія № 40, І частина (переклад для фортепіано в 4 руки)",
+        "name": "Фортепіанний дует у складі Дудич Ольги та Канського Максима",
+        "id": {
+            "$oid": "1714680121.8589916"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/5pOCRq84g2E",
+        "composition": "Т. Петриненко. «Україна» (переклад для фортепіано в 4 руки)",
+        "name": "Фортепіанний дует у складі Дудич Ольги та Канського Максима",
+        "id": {
+            "$oid": "1714680121.858994"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/S1QKOKMbMkA",
+        "composition": "В. А. Моцарт. Соната сі бемоль мажор, 1 частина",
+        "name": "Фортепіанний дует у складі Скарбарчук Мирослави та Кухарук Анастасії",
+        "id": {
+            "$oid": "1714680121.858995"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/pLiq-iyH_bI",
+        "composition": "О. Саратський. Коломийка  (переклад для 4 рук М. Канке)",
+        "name": "Фортепіанний дует у складі Скарбарчук Мирослави та Кухарук Анастасії",
+        "id": {
+            "$oid": "1714680121.858996"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/j-oNmR4U4k4",
+        "composition": "К. Сен-Санс. «Танець смерті»",
+        "name": "Фортепіанний дует у складі Смик Анни та Герасимчук Анастасії",
+        "id": {
+            "$oid": "1714680121.8590047"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/rY_BU2A0OLQ",
+        "composition": "О. Заходякін. «Механічна балерина»",
+        "name": "Фортепіанний дует у складі Смик Анни та Герасимчук Анастасії",
+        "id": {
+            "$oid": "1714680121.8590057"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/OGgvqWuzYEo",
+        "composition": "О. Іванько. «Ретро»",
+        "name": "Фортепіанний квартет у складі Асмоловської Дарії, Палійчук Тетяни, Савіної Алли, Струк Наталії",
+        "id": {
+            "$oid": "1714680121.8590066"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/dCaoh2aMhPE",
+        "composition": "Муз. В. Івасюка, аранжування для 8 рук Т. Афанасенко. «Я піду в далекі гори»",
+        "name": "Фортепіанний квартет у складі Асмоловської Дарії, Палійчук Тетяни, Савіної Алли, Струк Наталії",
+        "id": {
+            "$oid": "1714680121.8590078"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/UZLUrGoCmgU",
+        "composition": "1) Mariano Mores. Arr Alejandro Petrasso, transcription Henrik Gida Taquito Militar; 2) М. Скорик. «Канкан зі старої грамофонної плити»",
+        "name": "Фортепіанний дует у складі Житної Юлії та Білоусова Олександра",
+        "id": {
+            "$oid": "1714680121.8590088"
+        },
+        "group": "архів"
+    }
+]
+
+let fortepianoSolo_2 = 
+    [
+    {
+        "videoUrl": "https://www.youtube.com/embed/uc6Nk6AIwj0",
+        "composition": "1) Ф. Шопен. Вальс, тв. 64 №1; 2) М. Дремлюга Скерцо ля мінор",
+        "name": "Азізов Андрій, 20.12.2010 р. н.",
+        "id": {
+            "$oid": "1714330154.9052775"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/0CLVoa-6NzI",
+        "composition": "Ф. Шопен. «Grande Valse Briliante», тв. 34 №2",
+        "name": "Бекірова Каміла, 04.07.2009 р. н.",
+        "id": {
+            "$oid": "1714330154.905289"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/1b9Y-0CALT4",
+        "composition": "Б. Фільц. «Лемківська пісня» №1",
+        "name": "Бекірова Каміла, 04.07.2009 р. н.",
+        "id": {
+            "$oid": "1714330154.905291"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/lkfT1io-GoE",
+        "composition": "Л. Бетховен. «До Елізи»",
+        "name": "Галан Ірина, 17.05.2010 р. н.",
+        "id": {
+            "$oid": "1714330154.9052923"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/_QFB5lFlMOM",
+        "composition": "М. Шентюрк. «Вальс кульбабок»",
+        "name": "Галан Ірина, 17.05.2010 р. н.",
+        "id": {
+            "$oid": "1714330154.905295"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/NiGByNPHDKI",
+        "composition": "1) С. Борткевич Прелюд №1, тв.6 мі бемоль мінор; 2) Р. Шуман «Порив»",
+        "name": "Гасратов Олексій, 24.08.2010 р. н.",
+        "id": {
+            "$oid": "1714330154.9052958"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/ZVtn2ALICo0",
+        "composition": "Л. Шукайло. «Багатель» №5",
+        "name": "Гиря Андрій, 23.05.2008 р. н.",
+        "id": {
+            "$oid": "1714330154.905297"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/DLJExdjRxjg",
+        "composition": "Е. Гріг. «Імпровізація»",
+        "name": "Гиря Андрій, 23.05.2008 р. н.",
+        "id": {
+            "$oid": "1714330154.9052982"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/pme9z2_UpTw",
+        "composition": "Й.С. Бах. Прелюдія та фуга ре мінор, ДТК-І",
+        "name": "Данько Анастасія, 02.10.2006 р. н.",
+        "id": {
+            "$oid": "1714330154.9052992"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/BXion9gLU8g",
+        "composition": "Я. Степовий. Прелюдія № 19",
+        "name": "Данько Анастасія, 02.10.2006 р. н.",
+        "id": {
+            "$oid": "1714330154.9053004"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/4sRjv3uvnQs",
+        "composition": "1) Л. Шитте. Сонатина ре мажор; 2) М. Кароль-Шехместер. «Танець падаючого листя»",
+        "name": "Доренська Анжела, 25.01.2009 р. н.",
+        "id": {
+            "$oid": "1714330154.9053016"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/Mu-pBYdtoXY",
+        "composition": "Ф. Мендельсон. «Пісня без слів»",
+        "name": "Дудич Ольга, 14.10.2009 р. н.",
+        "id": {
+            "$oid": "1714330154.9053025"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/NMl5mCYes08",
+        "composition": "Е. Брилін. Токката",
+        "name": "Дудич Ольга, 14.10.2009 р. н.",
+        "id": {
+            "$oid": "1714330154.9053035"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/FEzwltq3FUM",
+        "composition": "Л. Ревуцький, «Пісня»",
+        "name": "Завадська Аріна, 06.06.2009 р. н.",
+        "id": {
+            "$oid": "1714330154.9053047"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/nntUu5p7yJE",
+        "composition": "Й. Гайдн. Соната  мі мінор, 1 частина",
+        "name": "Завадська Аріна, 06.06.2009 р. н.",
+        "id": {
+            "$oid": "1714330154.9053056"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/WFr3mJpsj_w",
+        "composition": "Ф. Мендельсон, аранж. К. Ланге. «Осіння пісня»",
+        "name": "Ільчук Еліза, 19.09.2010 р. н.",
+        "id": {
+            "$oid": "1714330154.9053075"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/5UbHctle6fw",
+        "composition": "В. Ширинський. Вальс",
+        "name": "Ільчук Еліза, 19.09.2010 р. н.",
+        "id": {
+            "$oid": "1714330154.905309"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/2y8cdGqJQpg",
+        "composition": "1) Й.С. Бах. Прелюдія та фуга до мінор, ДТК-І; 2) Ф. Шопен. Етюд, тв. 25 №2",
+        "name": "Кадубець Єва, 01.10.2008 р. н.",
+        "id": {
+            "$oid": "1714330154.90531"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/d0772PfOlKQ",
+        "composition": "В. Кос-Анатольський. Сюїта «Сині гори», 1 ч.",
+        "name": "Король Єлизавета, 09.08.2010 р. н.",
+        "id": {
+            "$oid": "1714330154.9053109"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/S49KqU2vwps",
+        "composition": "Б. Річардс. «Щебетання птахів»",
+        "name": "Король Єлизавета, 09.08.2010 р. н.",
+        "id": {
+            "$oid": "1714330154.905312"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/lt3uhGik2XQ",
+        "composition": "Я. Івановс. «Ялинка»",
+        "name": "Кривицька Олександра, 05.11.2008 р. н.",
+        "id": {
+            "$oid": "1714330154.905313"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/C_Hd-V2_paw",
+        "composition": "К. Вік. «Полонез» до мажор",
+        "name": "Кривицька Олександра, 05.11.2008 р. н.",
+        "id": {
+            "$oid": "1714330154.905314"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/CCVLOri4tS0",
+        "composition": "1) Л.В. Бетховен. Соната №20, 1 частина; 2) Б. Фільц. «Закарпатська новелета»",
+        "name": "Кузьмич Ярина, 17.09.2009 р. н.",
+        "id": {
+            "$oid": "1714330154.9053152"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/u5wNqPzSENY",
+        "composition": "1) М. Степаненко. «Прелюдія» ля мінор; 2) Українська народна пісня «Цвіте терен» в обр. О. Саратського",
+        "name": "Кутас Віталій, 22.12.2010 р. н.",
+        "id": {
+            "$oid": "1714330154.905316"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/f7TEnZSyHX4",
+        "composition": "Й. С. Бах. Маленька прелюдія №5",
+        "name": "Липка Андрій, 14.12.2010 р. н.",
+        "id": {
+            "$oid": "1714330154.905317"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/qFq-mBtOrlo",
+        "composition": "Ю. Щуровський. «Токката»",
+        "name": "Липка Андрій, 14.12.2010 р. н.",
+        "id": {
+            "$oid": "1714330154.9053195"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/tCH3Xe_vPBM",
+        "composition": "1) В. А. Моцарт. Соната  фа мажор, 1 частина; 2) Н. Нижанківський. Вальс",
+        "name": "Люзович Анастасія, 10.08.2008 р. н.",
+        "id": {
+            "$oid": "1714330154.9053206"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/V_ptA1jOGRY",
+        "composition": "Д. Чімароза. Соната сі бемоль мажор",
+        "name": "Мельникова Ангеліна, 10.12.2009 р. н.",
+        "id": {
+            "$oid": "1714330154.9053233"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/yPfrZ-IeDp0",
+        "composition": "Л. Шукайло. Інтермецо",
+        "name": "Мельникова Ангеліна, 10.12.2009 р. н.",
+        "id": {
+            "$oid": "1714330154.9053242"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/296ztCyyCXs",
+        "composition": "Т. Задор. «Концертний етюд» до мінор",
+        "name": "Мих Роксоляна, 23.03.2008 р. н.",
+        "id": {
+            "$oid": "1714330154.9053254"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/W3Vrvk6hzoo",
+        "composition": "Ф.К. Моцарт. Варіації на тему української народної пісні «У сусіда хата   біла»",
+        "name": "Мих Роксоляна, 23.03.2008 р. н.",
+        "id": {
+            "$oid": "1714330154.9053264"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/ExnKDp__Gu0",
+        "composition": "1) Й. Гайдн. Соната фа мажор, 1 частина; 2) Ф. Якименко. «Елегія» соль мінор.",
+        "name": "Міськів Максим, 24.08.2009 р. н.",
+        "id": {
+            "$oid": "1714330154.9053295"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/egoFvF3qmy0",
+        "composition": "Й. С. Бах. Триголосна інвенція фа мажор",
+        "name": "Мозгова Надія, 11.12.2009 р. н.",
+        "id": {
+            "$oid": "1714330154.9053307"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/40vWFMz2LvQ",
+        "composition": "Пєсканов. Прелюдія «Ukraine»",
+        "name": "Мозгова Надія, 11.12.2009 р. н.",
+        "id": {
+            "$oid": "1714330154.9053316"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/1jqHIl_CVWM",
+        "composition": "К. Славицький. «Два етюди»",
+        "name": "Остапенко Аліна, 10.02.2011 р. н.",
+        "id": {
+            "$oid": "1714330154.9053328"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/CoCqKQLqxV0",
+        "composition": "М. Климовський. «Їхав козак за Дунай», обр. Р. Савицького",
+        "name": "Остапенко Аліна, 10.02.2011 р. н.",
+        "id": {
+            "$oid": "1714330154.9053338"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/rhvUHg04f3Q",
+        "composition": "Я. Ваньхаль. Соната ля мажор",
+        "name": "Рудаєва Анна, 03.12.2009 р. н.",
+        "id": {
+            "$oid": "1714330154.9053347"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/Sv1-u5Qs5LM",
+        "composition": "О. Тимошенко. «Музична історія»",
+        "name": "Рудаєва Анна, 03.12.2009 р. н.",
+        "id": {
+            "$oid": "1714330154.905336"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/yIw18mLv_x8",
+        "composition": "Л. Бетховен. Соната №1, 1 частина",
+        "name": "Саврай Катерина, 04.07.2009 р. н.",
+        "id": {
+            "$oid": "1714330154.9053383"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/VLItoQbZVRQ",
+        "composition": "І. Шамо. Токата",
+        "name": "Саврай Катерина, 04.07.2009 р. н.",
+        "id": {
+            "$oid": "1714330154.9053395"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/K5L5zvmpXzo",
+        "composition": "1) Й.С. Бах. Прелюдія та фуга ре мінор, ДТК-І; 2) К. Віленський. Українська народна пісня «Не питай, чого в мене заплакані очі»",
+        "name": "Савченко Матвій, 17.01.2010 р. н.",
+        "id": {
+            "$oid": "1714330154.9053404"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/DTK_E8HyKoQ",
+        "composition": "О. Рогоза. «Етюд»",
+        "name": "Саква Валерія, 13.03.2010 р. н.",
+        "id": {
+            "$oid": "1714330154.9053414"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/8WYftbznJJ4",
+        "composition": "Р. Лісова. «Ноктюрн»",
+        "name": "Саква Валерія, 13.03.2010 р. н.",
+        "id": {
+            "$oid": "1714330154.9053426"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/t8hiK1RyXlg",
+        "composition": "Н. Нижанківський. Інтермецо",
+        "name": "Сілецька Дар'я, 30.09.2010 р. н.",
+        "id": {
+            "$oid": "1714330154.9053435"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/VaiUvt2qdo8",
+        "composition": "Ф. Мендельсон. «Фантазія-каприз», тв. 16 №2",
+        "name": "Сілецька Дар'я, 30.09.2010 р. н.",
+        "id": {
+            "$oid": "1714330154.9053445"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/NS_4kJZgdeE",
+        "composition": "1) І. Беркович. Токата мінор; 2) Ф. Шопен. Вальс сі мінор",
+        "name": "Скороходько Євгенія, 24.07.2010 р. н.",
+        "id": {
+            "$oid": "1714330154.9053452"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/PssGJW1xTr4",
+        "composition": "1) І. Карабиць. Прелюдії №1 та 22 з циклу «24 Прелюдії для фортепіано»; 2) І. Шамо. «Трійка»",
+        "name": "Смірнова Євгенія, 03.03.2012 р. н.",
+        "id": {
+            "$oid": "1714330154.9053464"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/PSTK7T77opE",
+        "composition": "1) Л. Іваненко. «Таємний знак»; 2) Т. Афанасенко. «Cola shake»",
+        "name": "Смірнова Аліса, 12.01.2014 р. н.",
+        "id": {
+            "$oid": "1714420877.0437486"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/ItfMH-Qk0q0",
+        "composition": "1) Ф. Шопен. Ноктюрн, тв. 9 №2; 2) П. Захаров. Концертний експромт на тему української різдвяної колядки «Щедрик»",
+        "name": "Тимофєєва Дар'я, 11.04.2011 р. н.",
+        "id": {
+            "$oid": "1714330154.9053473"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/2gPHDgiEvFs",
+        "composition": "1) Й. Гайдн. Соната ре мажор, 1 частина; 2) М. Лисенко. «Елегія»",
+        "name": "Федина Марія-Анна, 27.08.2010 р. н.",
+        "id": {
+            "$oid": "1714330154.9053483"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/b7Pc4bMI5FY",
+        "composition": "1) С. Борткевич. Етюд, тв.29 №7 «Le mysterieux inconnu»; 2) Ф. Шопен. «Фантазія-Експромт»",
+        "name": "Федотова Катерина, 20.04.2011 р. н.",
+        "id": {
+            "$oid": "1714330154.9053495"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/Yb57s7Hy2-c",
+        "composition": "М. Шентюрк. «Сльози»",
+        "name": "Чорна Ганна, 21.12.2009 р. н.",
+        "id": {
+            "$oid": "1714330154.9053516"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/wEMiDrG3uzs",
+        "composition": "М. Дремлюга. Скерцо",
+        "name": "Чорна Ганна, 21.12.2009 р. н.",
+        "id": {
+            "$oid": "1714330154.905353"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/U7QKfDkvMb4",
+        "composition": "1) Б. Лятошинський. «Ой, у полі три криниченьки», тв. 36 №1 2) Є. Дзюба. Прелюдія «Нескореним»",
+        "name": "Шерстій Тарас Ігорович, 14.04.2008 р. н.",
+        "id": {
+            "$oid": "1714330154.905354"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/X5qLh7idkyE",
+        "composition": "Г. Ф. Телеман. Фуга соль мінор",
+        "name": "Юрчук Анастасія, 21.10.2009 р. н.",
+        "id": {
+            "$oid": "1714330154.905355"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/96k7wR2bgrQ",
+        "composition": "А. Кос-Анатольський. Коломийка з «Буковинської сюїти»",
+        "name": "Юрчук Анастасія, 21.10.2009 р. н.",
+        "id": {
+            "$oid": "1714330154.905356"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/Ko89yxMk44s",
+        "composition": "І. Шамо. «Веснянка»",
+        "name": "Якименко Єлизавета, 23.10.2010 р. н.",
+        "id": {
+            "$oid": "1714330154.905357"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/wQXf343Jei4",
+        "composition": "В. Клова. «Прелюдія»",
+        "name": "Якименко Єлизавета, 23.10.2010 р. н.",
+        "id": {
+            "$oid": "1714330154.9053578"
+        },
+        "group": "архів"
+    }
+].concat(
+    [
+        {
+            "videoUrl": "https://www.youtube.com/embed/qK2FaGrTwZE",
+            "composition": "1) Е. Гріг. «Танець з Йолстера», тв. 17, №5; 2) 2. Ю. Щуровський. Токата",
+            "name": "Авдюгін Руслан, 02.12.2014 р. н.",
+            "id": {
+                "$oid": "1714420877.0436056"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/CSxRNGyilMg",
+            "composition": "Українська народна пісня в обр. Ю. Водика «Щебетала пташечка»",
+            "name": "Багдасарян Ніколь, 05.06.2014 р. н.",
+            "id": {
+                "$oid": "1714420877.0436158"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/r0r6eNR0-Ck",
+            "composition": "П. Захаров. «Пригоди кота»",
+            "name": "Багдасарян Ніколь, 05.06.2014 р. н.",
+            "id": {
+                "$oid": "1714420877.0436192"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/I2u2bEZm1Dg",
+            "composition": "Л. Моцарт. Менует ре мінор",
+            "name": "Берестюк Евеліна, 10.11.2016 р. н.",
+            "id": {
+                "$oid": "1714420877.0436203"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/7PeHM0vFFnE",
+            "composition": "Л. Шукайло. «Весняні краплинки»",
+            "name": "Берестюк Евеліна, 10.11.2016 р. н.",
+            "id": {
+                "$oid": "1714420877.0436213"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/05sltJDUjxY",
+            "composition": "1) Г. Без'язичний. Сонатина мі мінор; 2) М. Шмітц. «Сонячний вальс»",
+            "name": "Бернік Евеліна, 02.01.2017 р. н.",
+            "id": {
+                "$oid": "1714420877.0436227"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/arG06526R2Q",
+            "composition": "Г. Без’язичний. Сонатина №4 до мажор",
+            "name": "Винницька Ангеліна, 05.07.2014 р. н.",
+            "id": {
+                "$oid": "1714420877.0436234"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/bzfC7S2Q6Z0",
+            "composition": "Українська народна пісня в оранж. Д. Коледа «Ой у гаю при Дунаю»",
+            "name": "Винницька Ангеліна, 05.07.2014 р. н.",
+            "id": {
+                "$oid": "1714420877.0436244"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/AuAEBeyUZOo",
+            "composition": "М. Шмітц. Колискова",
+            "name": "Ганяк Соломія, 05.05.2015 р. н.",
+            "id": {
+                "$oid": "1714420877.0436254"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/vUPVsSwQFGI",
+            "composition": "М. Лемішко. Коломийка",
+            "name": "Ганяк Соломія, 05.05.2015 р. н.",
+            "id": {
+                "$oid": "1714420877.0436268"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/WwPH2hYs35I",
+            "composition": "І. Беркович. Сонатина до мажор",
+            "name": "Годунко Джастін, 03.08.2015 р. н.",
+            "id": {
+                "$oid": "1714420877.0436277"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/rcYaxhIG4Tk",
+            "composition": "Т. Афанасенко. «Гном тірілі бом-бом»",
+            "name": "Годунко Джастін, 03.08.2015 р. н.",
+            "id": {
+                "$oid": "1714420877.0436287"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/CBZxWPEiq-U",
+            "composition": "1) М. Ластовецький. «Театральний вальс» фа мажор; 2) К. Черні. Етюд мі мінор",
+            "name": "Голов Анна, 30.06.2016 р. н.",
+            "id": {
+                "$oid": "1714420877.04363"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/sfRv40PvBFo",
+            "composition": "1) Й.С. Бах. Менует соль мажор; 2) Т. Афанасенко. «Ворон» з циклу «Каталог птахів»",
+            "name": "Городиська Анна, 24.12.2014 р. н.",
+            "id": {
+                "$oid": "1714420877.0436318"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/4BelMytM_wY",
+            "composition": "І. Беркович. Прелюдія ре мажор",
+            "name": "Гузак Маргарита, 04.12.2015 р. н.",
+            "id": {
+                "$oid": "1714420877.0436332"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/oaG7FmNbhRw",
+            "composition": "В. Лущик. «Веселий автомобіль»",
+            "name": "Гузак Маргарита, 04.12.2015 р. н.",
+            "id": {
+                "$oid": "1714420877.0436342"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/wqaiNYRwqWA",
+            "composition": "Й.С. Бах. Маленька прелюдія ре мінор",
+            "name": "Денисевич Соломія, 14.08.2015 р. н.",
+            "id": {
+                "$oid": "1714420877.0436351"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/uI2BJI9lYsg",
+            "composition": "І. Хуторянський. «Вогнівочка-стрибунівочка»",
+            "name": "Денисевич Соломія, 14.08.2015 р. н.",
+            "id": {
+                "$oid": "1714420877.0436363"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/n5no_3VHGcI",
+            "composition": "Й. С. Бах. Менует соль мажор з «Нотного зошита Анни Магдалени Бах»",
+            "name": "Доценко Валерія, 02.09.2015 р. н.",
+            "id": {
+                "$oid": "1714420877.0436373"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/bHYzHTUHmG8",
+            "composition": "М. Шентюрк. «Неслухняне левеня»",
+            "name": "Доценко Валерія, 02.09.2015 р. н.",
+            "id": {
+                "$oid": "1714420877.0436382"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/A4kZ3lxAL9c",
+            "composition": "Т. Афанасенко. «Течія»",
+            "name": "Друзьяк Владислава, 18.12.2014 р. н.",
+            "id": {
+                "$oid": "1714420877.0436392"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/FQp7032nbHI",
+            "composition": "М. Реджино. «Лахмітник за роботою»",
+            "name": "Друзьяк Владислава, 18.12.2014 р. н.",
+            "id": {
+                "$oid": "1714420877.0436404"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/NSUy9zQ3Hc4",
+            "composition": "1) В. Гіллок. «Вітер в бамбукових деревах»; 2)Г. Остен. «Клич індіанців»",
+            "name": "Іванцова Даніела, 10.06.2016 р. н.",
+            "id": {
+                "$oid": "1714420877.043641"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/uOlppw7TuTc",
+            "composition": "Й.С. Бах. Менует ре мінор",
+            "name": "Клімович Вікторія, 15.05.2014 р. н.",
+            "id": {
+                "$oid": "1714420877.043642"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/_O-KaVHCq98",
+            "composition": "В. Подвала. «Капризуля»",
+            "name": "Клімович Вікторія, 15.05.2014 р. н.",
+            "id": {
+                "$oid": "1714420877.0436432"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/qx7uD_fPgH0",
+            "composition": "В. Гіллок. «Спорожнілий бальний зал»",
+            "name": "Криворучко Ярина, 06.10.2016 р. н.",
+            "id": {
+                "$oid": "1714420877.0436466"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/UbeM0TTzwf0",
+            "composition": "В. Косенко. Скерцино",
+            "name": "Криворучко Ярина, 06.10.2016 р. н.",
+            "id": {
+                "$oid": "1714420877.0436475"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/3bKz2Xuw0B8",
+            "composition": "Й.С. Бах. Маленька прелюдія до мажор",
+            "name": "Ліпкан Аліна, 10.10.2014 р. н.",
+            "id": {
+                "$oid": "1714420877.0436485"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/fc6w846H9xA",
+            "composition": "В. Довженко. «В гаю»",
+            "name": "Ліпкан Аліна, 10.10.2014 р. н.",
+            "id": {
+                "$oid": "1714420877.0436494"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/Pg0KgUZ8cb4",
+            "composition": "1) А. Біль. Сонатина до мажор; 2) Л. Вайштейн. Сициліана ре мінор",
+            "name": "Марусинець Іванна, 06.01.2016 р. н.",
+            "id": {
+                "$oid": "1714420877.0436506"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/xPyfy3RxQYE",
+            "composition": "Й. С. Бах. Двоголосна інвенція фа мажор",
+            "name": "Марчук Кароліна, 14.07.2015 р. н.",
+            "id": {
+                "$oid": "1714420877.0436516"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/RECRI2iZtkc",
+            "composition": "Л. Шукайло. «Карнавальна хода»",
+            "name": "Марчук Кароліна, 14.07.2015 р. н.",
+            "id": {
+                "$oid": "1714420877.0436525"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/lOiWhmQgQR0",
+            "composition": "М. Майєр. «Фарби осені»",
+            "name": "Пісоцька Соломія, 23.03.2016 р. н.",
+            "id": {
+                "$oid": "1714420877.0436547"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/fbaqO6eFQMI",
+            "composition": "М. Шентюрк. «Локдаун»",
+            "name": "Пісоцька Соломія, 23.03.2016 р. н.",
+            "id": {
+                "$oid": "1714420877.0436556"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/30ObxfLkdZ4",
+            "composition": "1) К. Нефе. Андантіно; 2) Л. Шукайло. «Горобець»",
+            "name": "Приступа Софія, 18.08.2015 р. н.",
+            "id": {
+                "$oid": "1714420877.0436566"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/UNAB5wbkvwk",
+            "composition": "Ю Щуровський. Танець",
+            "name": "Садовнік Есфір, 25.06.2014 р. н.",
+            "id": {
+                "$oid": "1714420877.0436578"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/DvoiBrMM0do",
+            "composition": "Л. Шукайло. Інтермеццо",
+            "name": "Садовнік Есфір, 25.06.2014 р. н.",
+            "id": {
+                "$oid": "1714420877.0436597"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/JH2_fm9jXSw",
+            "composition": "1) М. Майєр. «Фарби осені»; 2) М. Шентюрк. «Вальс-Каприз»",
+            "name": "Сивоконь Віра, 18.12.2014 р. н.",
+            "id": {
+                "$oid": "1714420877.043661"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/SrQWOTkGFCM",
+            "composition": "В. Гіллок. «Сентиментальна арабеска»",
+            "name": "Сліщук Тимур, 13.10.2014 р. н.",
+            "id": {
+                "$oid": "1714420877.043662"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/guwj4arLTXY",
+            "composition": "М. Дремлюга. «Народний танець»",
+            "name": "Сліщук Тимур, 13.10.2014 р. н.",
+            "id": {
+                "$oid": "1714420877.0436628"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/vhvnSwpzufI",
+            "composition": "Й.С. Бах. Двоголосна інвенція до мажор",
+            "name": "Солдатенко Аліса, 28.07.2016 р. н.",
+            "id": {
+                "$oid": "1714420877.043664"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/2Ij4qeVh_SA",
+            "composition": "Т. Афанасенко. Тема з варіаціями з кінофільму «Гаррі Потер»",
+            "name": "Солдатенко Аліса, 28.07.2016 р. н.",
+            "id": {
+                "$oid": "1714420877.043665"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/N-dAHaJaKA0",
+            "composition": "Л. Працюк. Вальс",
+            "name": "Ткаченко Віталіна, 20.12.2015 р. н.",
+            "id": {
+                "$oid": "1714420877.043666"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/9Q4cxvwcS7E",
+            "composition": "Е. Градескі. «Морозиво»",
+            "name": "Ткаченко Віталіна, 20.12.2015 р. н.",
+            "id": {
+                "$oid": "1714420877.0436668"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/8WRiyuY8Y2w",
+            "composition": "П. Захаров. «Весняна крапель»",
+            "name": "Трибушна Діана, 08.05.2014 р. н.",
+            "id": {
+                "$oid": "1714420877.043668"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/eAU4pLWyxdQ",
+            "composition": "Ф. Бургмюллер. Баллада",
+            "name": "Трибушна Діана, 08.05.2014 р. н.",
+            "id": {
+                "$oid": "1714420877.0436687"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/qCA-qpDAwUs",
+            "composition": "Й. Гайдн. «Вчитель і учень»",
+            "name": "Федорчук Вероніка, 23.06.2017 р. н.",
+            "id": {
+                "$oid": "1714420877.04367"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/tbMCXSa4Y8o",
+            "composition": "Г.Ф. Телеман. Граве фа дієз мінор",
+            "name": "Федорчук Вероніка, 23.06.2017 р. н.",
+            "id": {
+                "$oid": "1714420877.043671"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/iSYmhUiS6Ts",
+            "composition": "Т. Афанасенко. «Гном тірілі бом-бом»",
+            "name": "Федорчук Вероніка, 23.06.2017 р. н.",
+            "id": {
+                "$oid": "1714420877.0436728"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/fiHrMsNpsa4",
+            "composition": "Г. Гендель. Чакона соль мажор",
+            "name": "Філімончук Тіна, 28.01.2016 р. н.",
+            "id": {
+                "$oid": "1714420877.0436742"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/H_tATAeI7Fk",
+            "composition": "Б. Берлін. «Мавпочки на дереві»",
+            "name": "Філімончук Тіна, 28.01.2016 р. н.",
+            "id": {
+                "$oid": "1714420877.0436752"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/JNjZN-knIrg",
+            "composition": "1) О. Протопопова. «Маленька інвенція»; 2) О. Некрасов. «Верховинка витівниця» з «Карпатської сюїти»",
+            "name": "Халамейда Лук’ян, 09.07.2014 р. н.",
+            "id": {
+                "$oid": "1714420877.0436761"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/bz9fy5GfiF0",
+            "composition": "М. Сільванський. Варіації",
+            "name": "Шарандак Тимофій, 25.12.2016 р. н.",
+            "id": {
+                "$oid": "1714420877.0436769"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/thlrZNOluP4",
+            "composition": "А. Шушков. Джазовий етюд",
+            "name": "Шарандак Тимофій, 25.12.2016 р. н.",
+            "id": {
+                "$oid": "1714420877.0436783"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/SKC2lfdDNh0",
+            "composition": "1) М. Клементі. Сонатина до мажор, І частина; 2) В. Барвінський. «Лелека»",
+            "name": "Шлапак Анна, 12.06.2016 р. н.",
+            "id": {
+                "$oid": "1714420877.0436792"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/u_w0ONtoe14",
+            "composition": "1) О. Білаченко. «Осінній ескіз»; 2) Е. Бурнам. «Кружляюче листя»",
+            "name": "Щур Ірина, 29.12.2014 р. н.",
+            "id": {
+                "$oid": "1714420877.04368"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/n3aM8dxLfQU",
+            "composition": "Е. Гріг. Ноктюрн, тв.54 №4",
+            "name": "Авдюгіна Єва, 19.10.2011 р. н.",
+            "id": {
+                "$oid": "1714420877.043681"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/zLlWH2tJl2c",
+            "composition": "С. Борткевич. Етюд, тв. 15 №9",
+            "name": "Авдюгіна Єва, 19.10.2011 р. н.",
+            "id": {
+                "$oid": "1714420877.043682"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/Vv0KHdDTo2s",
+            "composition": "М. Шмітц. «Андреа»",
+            "name": "Андрієнко Михайло, 29.06.2012 р.н.",
+            "id": {
+                "$oid": "1714420877.043683"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/-zzfBEHUVXQ",
+            "composition": "П. Захаров. «Пригоди кота»",
+            "name": "Андрієнко Михайло, 29.06.2012 р.н.",
+            "id": {
+                "$oid": "1714420877.0436852"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/cDBxulC927U",
+            "composition": "1) О. Білаченко. «Спомин»; 2) П. Захаров. Тарантела",
+            "name": "Вінтоняк Вероніка, 29.10.2012 р.н.",
+            "id": {
+                "$oid": "1714420877.0436862"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/7rM3LfdwBpw",
+            "composition": "1) З. Фібіх. Капричіо; 2) М. Бобер. «Танець осінніх листочків»",
+            "name": "Гаврилюк Софія, 29.06.2012 р.н.",
+            "id": {
+                "$oid": "1714420877.043687"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/hjUGF8sVnQs",
+            "composition": "М. Калачевський. Романс, тв.6 №1",
+            "name": "Гайдар Анна, 28.07.2013 р.н.",
+            "id": {
+                "$oid": "1714420877.0436883"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/2uApfKR7krY",
+            "composition": "Дж. Россіні, переклад А. Лонго. «Болеро»",
+            "name": "Гайдар Анна, 28.07.2013 р.н.",
+            "id": {
+                "$oid": "1714420877.0436893"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/K5-zlTNgJwc",
+            "composition": "1) Саратський. «Ой у вишневому саду»; 2) Саратський. Коломийка",
+            "name": "Герасименко Олександра, 01.06.2011 р. н.",
+            "id": {
+                "$oid": "1714420877.0436912"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/71QS0DIQV08",
+            "composition": "В. Куртіді. Соната фа мажор",
+            "name": "Гриценя Яна, 10.01.2012 р.н.",
+            "id": {
+                "$oid": "1714420877.0436924"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/PSwk4F2JzVM",
+            "composition": "2.Б. Антоні. «Духмяні квіти»",
+            "name": "Гриценя Яна, 10.01.2012 р.н.",
+            "id": {
+                "$oid": "1714420877.0436933"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/-BfZGQ-JarI",
+            "composition": "1) Й.С. Бах. Прелюдія №11 соль мінор; 2) А. Классен. «Танець мавпочок»",
+            "name": "Денисюк Олена, 13.03.2014 р.н.",
+            "id": {
+                "$oid": "1714420877.0436943"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/U1ZHUiiixaY",
+            "composition": "Й. Гайдн. Сонатина ля мажор («Дивертисмент»)",
+            "name": "Івасів Роксоляна, 26.11.2011 р. н.",
+            "id": {
+                "$oid": "1714420877.0436954"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/HO0fR3-C83M",
+            "composition": "О. Білаш. «Вальс-бостон»",
+            "name": "Івасів Роксоляна, 26.11.2011 р. н.",
+            "id": {
+                "$oid": "1714420877.0436964"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/nwrAUwvX41w",
+            "composition": "1) Є. Девіс. «Море»; 2) М. Фрідман. «Рок навколо годинника»",
+            "name": "Ільчук Марія, 21.07.2013 р. н.",
+            "id": {
+                "$oid": "1714420877.0436974"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/Y42ibUHmX38",
+            "composition": "К. Кьоллінг. «Маленька угорська рапсодія»",
+            "name": "Канський Максим, 11.11.2011 р. н.",
+            "id": {
+                "$oid": "1714420877.0436995"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/03lb1CZcxEQ",
+            "composition": "В. Довженко. Токата",
+            "name": "Канський Максим, 11.11.2011 р. н.",
+            "id": {
+                "$oid": "1714420877.0437005"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/SgVdrurHF1U",
+            "composition": "С. Павлюченко. Фугета ля мінор",
+            "name": "Качерова Анастасія, 22.12.2013 р. н.",
+            "id": {
+                "$oid": "1714420877.0437014"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/8BZT9asmius",
+            "composition": "Р.Д. Вандалл. «Водоспад»",
+            "name": "Качерова Анастасія, 22.12.2013 р. н.",
+            "id": {
+                "$oid": "1714420877.0437026"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/NaedFXu39wM",
+            "composition": "М. Лисенко. Елегія фа дієз мінор",
+            "name": "Климович Єлизавета, 12.10.2011 р. н.",
+            "id": {
+                "$oid": "1714420877.0437045"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/Ch4UmuzhRno",
+            "composition": "Ж.Ф. Рамо. «Переспів пташок»",
+            "name": "Климович Єлизавета, 12.10.2011 р. н.",
+            "id": {
+                "$oid": "1714420877.0437057"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/sVJBFKoZma0",
+            "composition": "1) І. Беркович. «Казка»; 2) М. Шмітц. «Міккі Маус»",
+            "name": "Колядич Ельвіра, 26.07.2013 р. н.",
+            "id": {
+                "$oid": "1714420877.043707"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/t4b0CVd3KKw",
+            "composition": "Й. Гайдн. Соната мі мажор, І частина",
+            "name": "Кришталь Ян, 21.06.2012 р. н.",
+            "id": {
+                "$oid": "1714420877.0437078"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/y3WxPDRFXds",
+            "composition": "Л. Шукайло. «Карнавальна хода»",
+            "name": "Кришталь Ян, 21.06.2012 р. н.",
+            "id": {
+                "$oid": "1714420877.043709"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/x4HXnTY1tz0",
+            "composition": "1) Ф. Кулау. Сонатина, тв.20 №1; 2) Л. Бетховен. «До Елізи»",
+            "name": "Лега Кирило, 28.01.2014 р. н.",
+            "id": {
+                "$oid": "1714420877.04371"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/D7KeqcgVA-A",
+            "composition": "Ф. Куперен. «Маленькі вітрячки»",
+            "name": "Легкий Максим, 17.08.2011 р. н.",
+            "id": {
+                "$oid": "1714420877.0437107"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/BO8Fk62REcw",
+            "composition": "Л. Іваненко. «Бабуся Ягуся»",
+            "name": "Легкий Максим, 17.08.2011 р. н.",
+            "id": {
+                "$oid": "1714420877.043713"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/jS4oagudGGg",
+            "composition": "О. Меріканто. «Повільний вальс»",
+            "name": "Лістратенко Дарина, 31.07.2013 р. н.",
+            "id": {
+                "$oid": "1714420877.043714"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/VXyRHZ0YqN4",
+            "composition": "О. Саратський. Коломийка",
+            "name": "Лістратенко Дарина, 31.07.2013 р. н.",
+            "id": {
+                "$oid": "1714420877.043715"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/ipF_xHUxB7A",
+            "composition": "Т. Афанасенко. «Бузок»",
+            "name": "Лобко Владислава, 25.05.2013 р. н.",
+            "id": {
+                "$oid": "1714420877.0437162"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/8Gm_l834nWc",
+            "composition": "Й. Кунау. Прелюдія",
+            "name": "Лобко Владислава, 25.05.2013 р. н.",
+            "id": {
+                "$oid": "1714420877.0437171"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/NwObOk0jxqQ",
+            "composition": "1) Ф. Кулау. Сонатина до мажор, І частина; 2) Р. Шуман. «Маленький романс»; 3) В. Барвінський. «Український танок»",
+            "name": "Марущак Вероніка, 22.07.2013 р. н.",
+            "id": {
+                "$oid": "1714420877.043718"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/84SSsCr0pIY",
+            "composition": "Т. Браун. «Шторм, що наближається»",
+            "name": "Марченко Єлизавета, 02.11.2011 р. н.",
+            "id": {
+                "$oid": "1714420877.0437188"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/HbTyobs11_U",
+            "composition": "Я. Бобалік. «Симфонія ранку»",
+            "name": "Марченко Єлизавета, 02.11.2011 р. н.",
+            "id": {
+                "$oid": "1714420877.04372"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/RJINh0BS9D4",
+            "composition": "Ю. Щуровський. «Веснянка»",
+            "name": "Мельничук Богдана, 15.03.2013 р. н.",
+            "id": {
+                "$oid": "1714420877.043721"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/1uLE2fqhmBU",
+            "composition": "Л. Іванюшина. «Ранок»",
+            "name": "Мельничук Богдана, 15.03.2013 р. н.",
+            "id": {
+                "$oid": "1714420877.043722"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/jOzNyC1LASU",
+            "composition": "1) К. Коеллінг. «Маленька угорська рапсодія»; 2) М. Дремлюга. Елегія",
+            "name": "Мирошниченко Марія, 27.02.2012 р. н.",
+            "id": {
+                "$oid": "1714420877.043723"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/DVt0CGYoFu8",
+            "composition": "1) Я. Ванхаль. Соната ля мажор; 2) Л. Шукайло. Інтермецо",
+            "name": "Москалюк Естер, 10.02.2012 р. н.",
+            "id": {
+                "$oid": "1714420877.043724"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/IPMz-Bd5iIY",
+            "composition": "Й.С. Бах. Двоголосна інвенція до мажор",
+            "name": "Нога Соломія, 21.05.2013 р. н.",
+            "id": {
+                "$oid": "1714420877.043726"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/QWqOsMbXofs",
+            "composition": "Р. Цись. «Карпатська казка»",
+            "name": "Нога Соломія, 21.05.2013 р. н.",
+            "id": {
+                "$oid": "1714420877.0437288"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/YKWkkHPA6yg",
+            "composition": "Г. Ліхнер. Рондо до мажор",
+            "name": "Остапчук Єва, 13.05.2012 р. н.",
+            "id": {
+                "$oid": "1714420877.0437303"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/bj2Zq7dpNT4",
+            "composition": "О. Личкіна. «Сонячний проміньчик»",
+            "name": "Остапчук Єва, 13.05.2012 р. н.",
+            "id": {
+                "$oid": "1714420877.0437312"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/VJe4ASUlxqY",
+            "composition": "Українська народна пісня в обробці Г. Без’язичного «Ти ж мене підманула»",
+            "name": "Павчук Денис, 06.02.2012 р. н.",
+            "id": {
+                "$oid": "1714420877.0437322"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/Eaq43kKqdqE",
+            "composition": "Л. Жульєва. Коломийка із збірки «Шолом Алейхем»",
+            "name": "Павчук Денис, 06.02.2012 р. н.",
+            "id": {
+                "$oid": "1714420877.0437334"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/u9iOC_hBRko",
+            "composition": "1) М. Клементі. Сонатина, тв.36 №1, І частина; 2) В. Косенко. «Дощик»",
+            "name": "Паранчук Соломія, 11.03.2014 р. н.",
+            "id": {
+                "$oid": "1714420877.0437343"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/PsWSk3Hxhro",
+            "composition": "Г. Бем. Прелюдія соль мажор",
+            "name": "Петрига Агата, 28.08.2013 р. н.",
+            "id": {
+                "$oid": "1714420877.0437353"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/1ZFyUL31W7w",
+            "composition": "Українська народна гаївка в обр. М. Вериківського «Ягілочка»",
+            "name": "Петрига Агата, 28.08.2013 р. н.",
+            "id": {
+                "$oid": "1714420877.0437362"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/F5-mp9OkrOw",
+            "composition": "1) Ф. Шопен. Вальс, тв.64 №1; 2) В. Косенко. Поема-легенда, тв. 12 №1",
+            "name": "Піменова Аліса, 12.03.2012 р. н.",
+            "id": {
+                "$oid": "1714420877.0437374"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/qiBlgOfFpSQ",
+            "composition": "1) Ян Ванхаль. Соната ля мажор; 2) Ю. Ремезенко. «Маленька угорська рапсодія»",
+            "name": "Плисюк Вероніка, 21.10.2011 р. н.",
+            "id": {
+                "$oid": "1714420877.0437381"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/zV7EJpBS060",
+            "composition": "Ю. Накамуро. Капричіо",
+            "name": "Посипайко Аріна, 30.11.2012 р. н.",
+            "id": {
+                "$oid": "1714420877.0437403"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/XE2G6dzrCH4",
+            "composition": "П. Захаров. «Канатохідці»",
+            "name": "Посипайко Аріна, 30.11.2012 р. н.",
+            "id": {
+                "$oid": "1714420877.0437412"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/Vg9MaLD_H9Y",
+            "composition": "1) Й.С. Бах. Двоголосна інвенція ля мінор; 2) П. Захаров. «Сінематограф»",
+            "name": "Пурис Єлизвета, 05.09.2013 р. н.",
+            "id": {
+                "$oid": "1714420877.0437424"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/FOIwe_Ur098",
+            "composition": "1) В. Гіллок. «Дзвіночки»; 2) Н. Нижанківський. «Івась грає на чельо»",
+            "name": "Романюк Дарина, 06.02.2013 р. н.",
+            "id": {
+                "$oid": "1714420877.0437434"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/r7emN3jErLA",
+            "composition": "М. Стижевська. Фантазія на тему української народної пісні",
+            "name": "Рурак Анастасія, 08.10.2011 р. н.",
+            "id": {
+                "$oid": "1714420877.0437446"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/m5EPDd0fQvI",
+            "composition": "І. Беркович. Прелюдія ре мажор",
+            "name": "Рурак Анастасія, 08.10.2011 р. н.",
+            "id": {
+                "$oid": "1714420877.0437455"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/QcRAtYLWBYw",
+            "composition": "М. Шентюрк. «Блискавка»",
+            "name": "Семенчук Вероніка, 30.11.2013 р. н.",
+            "id": {
+                "$oid": "1714420877.0437465"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/ukjg54NshSg",
+            "composition": "Р. Лісова. «Спогади»",
+            "name": "Семенчук Вероніка, 30.11.2013 р. н.",
+            "id": {
+                "$oid": "1714420877.0437477"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/y6TJS5toIlY",
+            "composition": "1) Б. Фільц. Новелети №2,3 із циклу «Десять закарпатських новелет»; 2) Д. Тіман. «Flood tіme»",
+            "name": "Сухленко Олександр, 10.01.2014 р. н.",
+            "id": {
+                "$oid": "1714420877.0437496"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/vojEKD3M7zw",
+            "composition": "О. Личкіна. Прелюдія",
+            "name": "Тарасюк Олеся, 01.08.2011 р. н.",
+            "id": {
+                "$oid": "1714420877.0437508"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/OeF4e1Wvn5s",
+            "composition": "І. Степова-Боровська. Прелюдія №8 «Весна»",
+            "name": "Тарасюк Олеся, 01.08.2011 р. н.",
+            "id": {
+                "$oid": "1714420877.0437517"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/nVbMah-rQYk",
+            "composition": "1) Ф.Е. Бах. Фантазія ре мінор; 2) В. Моцарт. Сонатина до мажор",
+            "name": "Теленько Юлія, 04.02.2012 р. н.",
+            "id": {
+                "$oid": "1714420877.0437536"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/OJm62y0_7nc",
+            "composition": "Д. Александров. «Токата-діаманте»",
+            "name": "Тищук Ірина, 30.04.2012 р. н.",
+            "id": {
+                "$oid": "1714420877.0437548"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/lWWpAoJRkXQ",
+            "composition": "В. Гіллок. «На повітряній кулі»",
+            "name": "Тищук Ірина, 30.04.2012 р. н.",
+            "id": {
+                "$oid": "1714420877.0437558"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/4gnms_S5aXA",
+            "composition": "1) Ф. Мендельсон. «Пісня без слів»; 2) М. Скорик. «Народний танець»",
+            "name": "Убога Евеліна, 15.02.2012 р. н.",
+            "id": {
+                "$oid": "1714420877.0437567"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/pmGfqVwkbrg",
+            "composition": "О. Спілоті. «Гуцулята»",
+            "name": "Удод Валерія, 23.06.2011 р. н.",
+            "id": {
+                "$oid": "1714420877.043758"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/X4riDtt4idw",
+            "composition": "Я. Степовий. Прелюд сі бемоль мажор",
+            "name": "Удод Валерія, 23.06.2011 р. н.",
+            "id": {
+                "$oid": "1714420877.0437589"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/4vmneagtB-k",
+            "composition": "1) Й.С. Бах. Прелюдія і фуга фа мінор, ДТК-ІІ; 2) С. Борткевич. Етюд, тв. 15 №9",
+            "name": "Федорищева Василиса, 13.11.2011 р. н.",
+            "id": {
+                "$oid": "1714420877.0437596"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/KwqJvpU1qS0",
+            "composition": "К.Ф.Е. Бах. Маленька фантазія",
+            "name": "Фесенюк Лілія, 02.04.2014 р. н.",
+            "id": {
+                "$oid": "1714420877.0437605"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/UjEGzlfUOnA",
+            "composition": "Л. Колодуб. «Аркан»",
+            "name": "Фесенюк Лілія, 02.04.2014 р. н.",
+            "id": {
+                "$oid": "1714420877.0437617"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/slKichPwseA",
+            "composition": "Й. Гайдн. Соната-партита до мажор",
+            "name": "Філохіна Еліна, 12.01.2012 р. н.",
+            "id": {
+                "$oid": "1714420877.0437636"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/aQq5z0na1iQ",
+            "composition": "Л. Фучаджі. «Вальс осіннього листя»",
+            "name": "Філохіна Еліна, 12.01.2012 р. н.",
+            "id": {
+                "$oid": "1714420877.0437658"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/omM1hfcBy3Y",
+            "composition": "В. Квасневський. «Думка»",
+            "name": "Хвостова Віра, 27.04.2013 р. н.",
+            "id": {
+                "$oid": "1714420877.0437677"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/iq49_azmiw0",
+            "composition": "Л. Іваненко. «Сніжинки»",
+            "name": "Хвостова Віра, 27.04.2013 р. н.",
+            "id": {
+                "$oid": "1714420877.043769"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/8MydYKvyi-c",
+            "composition": "Й. Гайдн. Соната мі мажор, І частина",
+            "name": "Шаблєвська Єва, 25.02.2013 р. н.",
+            "id": {
+                "$oid": "1714420877.0437698"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/kg0sRPrBjNg",
+            "composition": "Т. Браун. «Танець вітру»",
+            "name": "Шаблєвська Єва, 25.02.2013 р. н.",
+            "id": {
+                "$oid": "1714420877.0437708"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/SKRMM2jzlFM",
+            "composition": "Й. С. Бах. Двоголосна інвенція ля мінор",
+            "name": "Шамина Маргарита, 08.01.2014 р. н.",
+            "id": {
+                "$oid": "1714420877.043772"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/pbapbrXZPb8",
+            "composition": "М. Шентюрк. Прелюдія «Солодкий листопад»",
+            "name": "Шамина Маргарита, 08.01.2014 р. н.",
+            "id": {
+                "$oid": "1714420877.043773"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/Tn6-tLhXGPU",
+            "composition": "Г. Сасько. Блюз, Вальс, Регтайм",
+            "name": "Шведова Марія, 16.07.2013 р. н.",
+            "id": {
+                "$oid": "1714420877.043774"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/pBfxs-pNBsY",
+            "composition": "1) Й. Маттезон. Менует; 2) Ю. Шинкаренко. «У школу»",
+            "name": "Якименко Ярослава, 09.08.2012 р. н.",
+            "id": {
+                "$oid": "1714420877.043775"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/IiMBPja2TYM",
+            "composition": "Ю. Щуровський. «Горобчик»",
+            "name": "Якимчук Кароліна, 13.03.2014 р. н.",
+            "id": {
+                "$oid": "1714420877.0437758"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/23O0Dvu-Vvo",
+            "composition": "В. Гіллок. «Танці уві сні»",
+            "name": "Якимчук Кароліна, 13.03.2014 р. н.",
+            "id": {
+                "$oid": "1714420877.0437768"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/w3UvghroQig",
+            "composition": "М. Шертюрк. «Розповідь неба»",
+            "name": "Ярмолюк Тетяна, 26.10.2012 р. н.",
+            "id": {
+                "$oid": "1714420877.0437777"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/ZiLgHFCrf8k",
+            "composition": "Є. Веврик. «Молдавські наспіви»",
+            "name": "Ярмолюк Тетяна, 26.10.2012 р. н.",
+            "id": {
+                "$oid": "1714420877.043779"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/CHAAO0mWtTM",
+            "composition": "Ян Сібеліус. Етюд, тв. 76 №21)",
+            "name": "Ярошенко Катерина, 06.04.2012 р. н.",
+            "id": {
+                "$oid": "1714420877.0437808"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/wvi60ANogyY",
+            "composition": "К. Роллін. Прелюдія №5",
+            "name": "Ярошенко Катерина, 06.04.2012 р. н.",
+            "id": {
+                "$oid": "1714420877.043782"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/lU0jI-D4lco",
+            "composition": "1) Ф. Ліст. Концертний етюд «Шум лісу»; 2) Ф. Шопен. Балада №3, тв.47",
+            "name": "Леухіна Оксана",
+            "id": {
+                "$oid": "1714420877.043783"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/p3215gkCQ0A",
+            "composition": "1) Ф. Ліст. Трансцендентний етюд №6 «Видіння»; 2) В. Барвінський. Прелюдія №3",
+            "name": "Зинова Дар'я",
+            "id": {
+                "$oid": "1714420877.043784"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/LjspbGefYo4",
+            "composition": "1) Е.А. Мак-Довел. «Танець відьом»; 2) С. Борткевич. Прелюдія №4, тв.40",
+            "name": "Кухарук Анастасія",
+            "id": {
+                "$oid": "1714420877.0437849"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/DYnFVH9rLMk",
+            "composition": "E.А. Maк-Довел. «Wild Chase», тв.46 №3",
+            "name": "Мазепа Олександра",
+            "id": {
+                "$oid": "1714420877.0437858"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/LdAA7vUyJ5E",
+            "composition": "А. Кос-Анатольський. Прелюдія №5 до мінор",
+            "name": "Мазепа Олександра",
+            "id": {
+                "$oid": "1714420877.0437868"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/15RsgCPiUgk",
+            "composition": "Й. С. Бах. Двоголосна інвенція фа мажор",
+            "name": "Мазур Марина",
+            "id": {
+                "$oid": "1714420877.0437877"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/wu7EKl4bl40",
+            "composition": "І. Беркович. Прелюд мі мінор",
+            "name": "Мазур Марина",
+            "id": {
+                "$oid": "1714420877.043789"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/oi9AkmGqvuc",
+            "composition": "1) М. Скорик. Вальс з Партити №5; 2) Ф. Шопен Ноктюрн мі бемоль мажор тв. 9 №2.",
+            "name": "Сардачук Аделіна",
+            "id": {
+                "$oid": "1714420877.0437908"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/HJQjpbqDfRg",
+            "composition": "Й. С. Бах. Двоголосна інвенція до мінор",
+            "name": "Штанькевич Ангеліна",
+            "id": {
+                "$oid": "1714420877.043793"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/phap2m8m-50",
+            "composition": "Я. Бобалік. «Осінь у моєму місті»",
+            "name": "Штанькевич Ангеліна",
+            "id": {
+                "$oid": "1714420877.043794"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/zwePks-Ulf4",
+            "composition": "І. Шамо. «На гулянці»",
+            "name": "Герасимчук Анастасія",
+            "id": {
+                "$oid": "1714420877.0437949"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/DDIC93ODU_o",
+            "composition": "В. Верменич,  фортепіанна транскрипція О. Заходякіна. «Чорнобривці»",
+            "name": "Герасимчук Анастасія",
+            "id": {
+                "$oid": "1714420877.043796"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/f0qFlDdea7k",
+            "composition": "1) С. Борткевич. Етюд «Дон Кіхот», тв. 29; 2) Л. Сидоренко. «Рими»",
+            "name": "Лиса Марія",
+            "id": {
+                "$oid": "1714420877.043797"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/cHLmfWLxBvI",
+            "composition": "Ф. Ліст. «Лорелея»",
+            "name": "Смик Анна",
+            "id": {
+                "$oid": "1714420877.0437977"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/ksasFmPFuLQ",
+            "composition": "К. М. Вебер. «Запрошення до танцю»",
+            "name": "Смик Анна",
+            "id": {
+                "$oid": "1714420877.0437987"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/_o3T_6fHTis",
+            "composition": "Ф. Блюменфельд. Соната-фантазія сі мінор",
+            "name": "Хомич Ірина",
+            "id": {
+                "$oid": "1714420877.0437999"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/str4N_MLMhA",
+            "composition": "М. Равель. \"Miroir: Alborada del gracioso\"",
+            "name": "Хомич Ірина",
+            "id": {
+                "$oid": "1714420877.0438018"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/y0hKo7oS6a8",
+            "composition": "М.  Колесса. «Контрасти» з сюїти «Картинки Гуцульщини»",
+            "name": "Циганюк Марія",
+            "id": {
+                "$oid": "1714420877.043803"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/wOMzsm6RT9c",
+            "composition": "С. Борткевич. Етюд, тв.15 №9",
+            "name": "Циганюк Марія",
+            "id": {
+                "$oid": "1714420877.043804"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/dfKu6Ix4BEM",
+            "composition": "Й. С. Бах. Прелюдія та фуга сі мінор, ДТК-ІІ",
+            "name": "Іванческул В.В.",
+            "id": {
+                "$oid": "1714420877.043805"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/CEfdiwgjKOY",
+            "composition": "В. Косенко. Етюд №2, сі бемоль мінор",
+            "name": "Іванческул В.В.",
+            "id": {
+                "$oid": "1714420877.043807"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/S_TuF9MEMNs",
+            "composition": "В. Косенко. Етюд №8, фа дієз мінор",
+            "name": "Левківська В.С.",
+            "id": {
+                "$oid": "1714420877.043808"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/-Pp7J3tK0RU",
+            "composition": "Н. Нижанківський. Інтермецо",
+            "name": "Левківська В.С.",
+            "id": {
+                "$oid": "1714420877.043809"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/clJla-HOtjU",
+            "composition": "Д. Скарлатті. Соната ре мінор К 141",
+            "name": "Мудра-Шендера Ю.В.",
+            "id": {
+                "$oid": "1714420877.0438101"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/h4V7P3cJ3oY",
+            "composition": "Ф. Шопен. Етюд соль бемоль мажор",
+            "name": "Мудра-Шендера Ю.В.",
+            "id": {
+                "$oid": "1714420877.0438108"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/XhDi37AvHCk",
+            "composition": "1) Й. С. Бах. Партита №2; 2) К. Дебюссі. «Місячне сяйво»",
+            "name": "Касаткіна О.М.",
+            "id": {
+                "$oid": "1714420877.0438118"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/U-be9v1BDI4",
+            "composition": "Ф. Шопен. Рондо до мінор",
+            "name": "Кулішкіна О.Ю.",
+            "id": {
+                "$oid": "1714420877.0438128"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/LsM7T8mHMLA",
+            "composition": "Й. Брамс. Рапсодія сі мінор",
+            "name": "Кулішкіна О.Ю.",
+            "id": {
+                "$oid": "1714420877.043814"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/wyJ4WZVmPUg",
+            "composition": "В. Косенко. Гавот з циклу «Одинадцять етюдів у формі старовинних танців»",
+            "name": "Сирота О.М.",
+            "id": {
+                "$oid": "1714420877.043815"
+            },
+            "group": "архів"
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/yM6vChX-5IU",
+            "composition": "Л. Жульєва. «Гамбрінус» («Одеські ескізи»)",
+            "name": "Сирота О.М.",
+            "id": {
+                "$oid": "1714420877.0438159"
+            },
+            "group": "архів"
+        }
+    ]).concat(
+        [
+    {
+        "videoUrl": "https://www.youtube.com/embed/_rUzAEryOSc",
+        "composition": "Клементі. Сонатина, тв.36 №3",
+        "name": "Парташнікова Ксенія, 23.06.2015",
+        "id": {
+            "$oid": "1714768961.794209"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/PRb_VcgoDBo",
+        "composition": "М. Жербін. Полька",
+        "name": "Парташнікова Ксенія, 23.06.2015",
+        "id": {
+            "$oid": "1714768961.794219"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/WEkjSuvyUtc",
+        "composition": "Й.С. Бах «Буре» ля мінор",
+        "name": "Пастушенко Остап, 26.01.2017 р.н.",
+        "id": {
+            "$oid": "1714768961.7942212"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/VHgFKqm18Ow",
+        "composition": "І. Іордан. «Полювання на метелика»",
+        "name": "Пастушенко Остап, 26.01.2017 р.н.",
+        "id": {
+            "$oid": "1714768961.7942224"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/pEZsyeGh5Y0",
+        "composition": "М. Лемішко. Коломийка",
+        "name": "Сівцова Аліна, 08.07.2011 р. н.",
+        "id": {
+            "$oid": "1714768961.794226"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/tTXC-S6ZrX4",
+        "composition": "А. Фучаджі. Вальс-мазурка",
+        "name": "Сівцова Аліна, 08.07.2011 р. н.",
+        "id": {
+            "$oid": "1714768961.794227"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/2wV8ivi96TU",
+        "composition": "1) «Калуш-Бенд», обр. Н. Курило. «Стефіанія»; 2) М. Дворжак. «Джазовий етюд» ля мажор",
+        "name": "Трофимчук Наталя, 30.08.2012",
+        "id": {
+            "$oid": "1714768961.794228"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/-kjAmUDMwv4",
+        "composition": "Ж. Равіна. Етюд, тв.60 №5",
+        "name": "Смолянський Давид, 29.08.2009 р.н.",
+        "id": {
+            "$oid": "1714768961.794229"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/Du_h-F2JHZ4",
+        "composition": "Г. Беренс. Рондо з сонати №1, тв.81",
+        "name": "Смолянський Давид, 29.08.2009 р.н.",
+        "id": {
+            "$oid": "1714768961.79423"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/OkCpIERM8t8",
+        "composition": "Й. Брамс. Рапсодія, тв.79 №1",
+        "name": "Очиченко Катерина",
+        "id": {
+            "$oid": "1714768961.794231"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/ZSpvxi8bRRY",
+        "composition": "С. Борткевич. Етюд, тв.15 №9",
+        "name": "Очиченко Катерина",
+        "id": {
+            "$oid": "1714768961.7942321"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/UI4NSQH6CcY",
+        "composition": "Й.С. Бах. Хоральна прелюдія фа мінор",
+        "name": "Фортушна Тетяна",
+        "id": {
+            "$oid": "1714768961.794233"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/NrzUH4iIjl0",
+        "composition": "Л. Ревуцький. Гумореска, тв. 17 №2",
+        "name": "Фортушна Тетяна",
+        "id": {
+            "$oid": "1714768961.794234"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/pjLC3ufaECo",
+        "composition": "Ф. Шопен. Ноктюрн до дієз мінор",
+        "name": "Шекель О.О.",
+        "id": {
+            "$oid": "1714768961.7942352"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/6Nbdtd17tk8",
+        "composition": "С. Рахманінов. Прелюдія соль  мінор",
+        "name": "Шекель О.О.",
+        "id": {
+            "$oid": "1714768961.7942364"
+        },
+        "group": "архів"
+    }
+])
+
+let additionalInstruments_2 = [
+    {
+        "videoUrl": "https://www.youtube.com/embed/zixwRSibd1c",
+        "composition": "1) Е. Гріг. «Арієтта» з 1 зошиту, тв. 12; 2) І. Беркович. Сонатина №2, ре мінор",
+        "name": "Андрєєв Ілля, 07.06.2012 р. н.",
+        "id": {
+            "$oid": "1714683792.61077"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/GgWHgi6zHho",
+        "composition": "М. Шмітц. «Сонячний вальс»",
+        "name": "Андрусенко Мілана, 09.01.2013 р. н.",
+        "id": {
+            "$oid": "1714683792.610784"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/GRVvG3D1IRw",
+        "composition": "В. Косенко «Дощик»",
+        "name": "Андрусенко Мілана, 09.01.2013 р. н.",
+        "id": {
+            "$oid": "1714683792.610786"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/h94T0WtiiMA",
+        "composition": "1) І. Альбеніс. Вальс, тв. 25 №2; 2) Ю. Щуровський. Токата",
+        "name": "Гофич Орест, 31.03.2011 р. н.",
+        "id": {
+            "$oid": "1714683792.6107874"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/sWQAas73_gg",
+        "composition": "О. Білаш. «Два кольори» в обр. Г. Без'язичного",
+        "name": "Коваль Северин, 31.10.2011 р. н.",
+        "id": {
+            "$oid": "1714683792.6107898"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/qxE-AbH_NGY",
+        "composition": "М. Мордасов. «Давним давно»",
+        "name": "Коваль Северин, 31.10.2011 р. н.",
+        "id": {
+            "$oid": "1714683792.610791"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/JFVXJOUP79k",
+        "composition": "С. Людкевич. «Старовинна пісня»",
+        "name": "Михалець Марія, 20.04.2011 р. н.",
+        "id": {
+            "$oid": "1714683792.610792"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/u4r0DLh00Po",
+        "composition": "А. Штогаренко. «Метелик»",
+        "name": "Михалець Марія, 20.04.2011 р. н.",
+        "id": {
+            "$oid": "1714683792.6107929"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/9Qco2tRmCDs",
+        "composition": "Т. Афанасенко. «Прогулянка»",
+        "name": "Мороз Анастасія, 30.11.2012 р. н.",
+        "id": {
+            "$oid": "1714683792.610794"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/JTS69uW_1xg",
+        "composition": "М. Шентюрк. «Вальс київських каштанів»",
+        "name": "Мороз Анастасія, 30.11.2012 р. н.",
+        "id": {
+            "$oid": "1714683792.610795"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/3Lk6mi3-1Uk",
+        "composition": "А. Іванько. Варіації на тему української народної пісні «Царівна»",
+        "name": "Москаленко Елеонора, 11.08.2015 р. н.",
+        "id": {
+            "$oid": "1714683792.6107962"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/gH61X2xD3wo",
+        "composition": "М. Майєр. «Клоун»",
+        "name": "Москаленко Елеонора, 11.08.2015 р. н.",
+        "id": {
+            "$oid": "1714683792.6107974"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/66UCjZ7i_Ic",
+        "composition": "Я. Барнич, обр. О. Стечишин. «Гуцулка Ксеня»",
+        "name": "Патицька Софія, 28.09.2009 р. н.",
+        "id": {
+            "$oid": "1714683792.6107984"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/0RoiZk1ev9M",
+        "composition": "М. Мієр. «Faded Dreams»",
+        "name": "Патицька Софія, 28.09.2009 р. н.",
+        "id": {
+            "$oid": "1714683792.610799"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/ozxgUaRIwvI",
+        "composition": "Е. Гріг. «У печері гірського короля»",
+        "name": "Федик Роман, 16.02.2013 р. н.",
+        "id": {
+            "$oid": "1714683792.6108"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/GDSB06XPxTA",
+        "composition": "Ю. Рожавська. «Лебідь»",
+        "name": "Федик Роман, 16.02.2013 р. н.",
+        "id": {
+            "$oid": "1714683792.6108024"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/_PML6yOPX-A",
+        "composition": "Ф. Шопен. Вальс до дієз мінор",
+        "name": "Азімова Анна",
+        "id": {
+            "$oid": "1714683792.6108036"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/j373_xEcgA8",
+        "composition": "В. Верменич. «Чорнобривці»",
+        "name": "Азімова Анна",
+        "id": {
+            "$oid": "1714683792.6108048"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/B2KgrbiqYRg",
+        "composition": "1) О. Касаткіна. Поліфонічна обробка української народної пісні «Ой, у лузі червона калина»; 2) О. Саратський. Коломийка",
+        "name": "Алексюткіна Олександра",
+        "id": {
+            "$oid": "1714683792.610806"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/llT38foY1CE",
+        "composition": "1) М. Лисенко. «Елегія»; 2) Ю. Щуровський. «Елегійний прелюд»",
+        "name": "Боярин Даніела",
+        "id": {
+            "$oid": "1714683792.610807"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/DpR0x-e00YY",
+        "composition": "1) Й. Гайдн. Соната мі мінор, І частина; 2) А. Кос-Анатольський. Коломийка з «Буковинської сюїти»",
+        "name": "Іванчук Софія",
+        "id": {
+            "$oid": "1714683792.610808"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/Csh9iGcSSCM",
+        "composition": "1) Я. Степовий. Прелюд ля мінор; 2) Ю. Щуровський. «Елегія»",
+        "name": "Нагайчук Ірина",
+        "id": {
+            "$oid": "1714683792.6108088"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/KXuFtpBOqGA",
+        "composition": "Д. Каччіні. «Ave Maria»",
+        "name": "Перепьолка Ольга",
+        "id": {
+            "$oid": "1714683792.6108098"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/btvaA_mGqg0",
+        "composition": "Дж. Гершвін. «Summertime»",
+        "name": "Перепьолка Ольга",
+        "id": {
+            "$oid": "1714683792.610811"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/KhH41h0K_3k",
+        "composition": "1) Дж. Гершвін. «Summertime»; 2) Ф. Бургмюллер. «Хвилювання»",
+        "name": "Уварова Софія",
+        "id": {
+            "$oid": "1714683792.6108136"
+        },
+        "group": "архів"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/m7RtAB0_0XA",
+        "composition": "1) Я. Сен Люк. Буре; 2) Л. Кьоллер. Рондо",
+        "name": "Тернова Анастасія,23.12.2014р.н",
+        "id": {
+            "$oid": "1714768961.7942235"
+        },
+        "group": "архів"
+    }]
+
+
+
 export let archive = myCards
-    .concat(concertmasters)
+    .concat(myCards)
     .concat(ensemble)
     .concat(ensembles)
+    .concat(ensembles_2)
+    .concat(concertmasters)
     .concat(concertmasters_2)
+    .concat(concertmasters_3)
     .concat(fortepianoSolo)
+    .concat(fortepianoSolo_2)
     .concat(additionalInstruments)
+    .concat(additionalInstruments_2)

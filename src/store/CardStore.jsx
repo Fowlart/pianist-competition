@@ -80,10 +80,10 @@ function filmReducer(state = {cardCount: myCards.length, cards: myCards, isDataI
                 error: "",
             }
         case 'SEARCH':
-            let q = action.query.toLowerCase();
+            let q = action.query.toLowerCase().trim();
             console.log(`> Пошук: ${q}`);
             let newCards3 = myCards.filter(card => {
-                let cardName = card.name.toLowerCase();
+                let cardName = card.name.toLowerCase().trim();
                 let bool = (cardName.startsWith(q) || cardName.includes(q));
                 console.log(`Testing ${cardName} on query ${q}, result is ${bool}`)
                 return bool;

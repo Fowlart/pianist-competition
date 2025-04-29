@@ -1,6 +1,7 @@
 import React, {useRef} from "react";
 import styled from "styled-components";
-import {AiOutlineFileSearch, HiOutlineExclamationCircle} from "react-icons/all";
+import {AiOutlineFileSearch} from "react-icons/ai";
+import {HiOutlineExclamationCircle} from "react-icons/hi2";
 import {useDispatch, useSelector} from "react-redux";
 import useWindowDimensions from "../hooks/UseWindowDimensions";
 
