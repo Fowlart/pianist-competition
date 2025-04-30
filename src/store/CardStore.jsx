@@ -116,7 +116,7 @@ function filmReducer(state = {cardCount: myCards.length, cards: myCards, isDataI
 export const cardStore = createStore(filmReducer);
 
 cardStore.subscribe(() =>
-    console.log("FilmsStore state was changed, number of cards: " + cardStore.getState().cardCount)
+    console.log("CardStore state was changed, number of cards: " + cardStore.getState().cardCount)
 );
 
 

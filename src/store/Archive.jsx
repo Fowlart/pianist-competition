@@ -1,4 +1,4 @@
-let myCards_1 = [
+let a = [
     {
         "id": {
             "$oid": "609853dc683dda47f8b61307"
@@ -2003,7 +2003,7 @@ let myCards_1 = [
     }
 ];
 
-let concertmasters = [
+let b = [
     {
         "id": {
             "$oid": "6098c8f6683dda47f8b613ffaasd"
@@ -2414,7 +2414,7 @@ let concertmasters = [
         "group": "архів"
     }];
 
-let ensemble = [
+let c = [
     {
         "id": {
             "$oid": "6098d647683dda47f8b61437"
@@ -2762,7 +2762,7 @@ let ensemble = [
     }
 ];
 
-let ensembles = [
+let d = [
     {
         "videoUrl": "https://www.youtube.com/embed/Q47wA07fcw8",
         "composition": "1. А. Комлікова. «Рок-драйв» з циклу «Інтервалія»; 2. А. Комлікова. «Мінялка-повторялка»",
@@ -2837,7 +2837,7 @@ let ensembles = [
     }
 ]
 
-let concertmasters_2 = [
+let e = [
     {
         "videoUrl": "https://www.youtube.com/embed/8-aqRWstfJs",
         "composition": "Муз. І. Шамо, сл. Д. Луценко. «Києве мій»",
@@ -3083,7 +3083,7 @@ let concertmasters_2 = [
     }
 ]
 
-let fortepianoSolo = [
+let f = [
     {
         "videoUrl": "https://youtube.com/embed/VHtYv6Xo28E",
         "composition": "В. Дамкомб. Сонатина до мажор, І частина",
@@ -5436,7 +5436,7 @@ let fortepianoSolo = [
     }
 ]
 
-let additionalInstruments = [
+let g = [
     {
         "videoUrl": "https://www.youtube.com/embed/YvtNZbpJQQo",
         "composition": "В. Гіллок. «A lively dance»",
@@ -5511,7 +5511,7 @@ let additionalInstruments = [
     }
 ]
 
-let concertmasters_3 = [
+let h = [
     {
         "videoUrl": "https://www.youtube.com/embed/FqcP1JROpx8",
         "composition": "Р. Глієр. «Романс»",
@@ -5804,7 +5804,7 @@ let concertmasters_3 = [
     }
 ])
 
-let ensembles_2 = [
+let j = [
     {
         "videoUrl": "https://www.youtube.com/embed/enx53WP4hb8",
         "composition": "Сарацький, переклад М. Канке. Коломийка",
@@ -6086,7 +6086,7 @@ let ensembles_2 = [
     }
 ]
 
-let fortepianoSolo_2 = 
+let k =
     [
     {
         "videoUrl": "https://www.youtube.com/embed/uc6Nk6AIwj0",
@@ -8290,7 +8290,7 @@ let fortepianoSolo_2 =
     }
 ])
 
-let additionalInstruments_2 = [
+let l = [
     {
         "videoUrl": "https://www.youtube.com/embed/zixwRSibd1c",
         "composition": "1) Е. Гріг. «Арієтта» з 1 зошиту, тв. 12; 2) І. Беркович. Сонатина №2, ре мінор",
@@ -8528,15 +8528,14 @@ let additionalInstruments_2 = [
 
 
 
-export let archive = myCards_1
-    .concat(myCards_1)
-    .concat(ensemble)
-    .concat(ensembles)
-    .concat(ensembles_2)
-    .concat(concertmasters)
-    .concat(concertmasters_2)
-    .concat(concertmasters_3)
-    .concat(fortepianoSolo)
-    .concat(fortepianoSolo_2)
-    .concat(additionalInstruments)
-    .concat(additionalInstruments_2)
+export let archive = a
+    .concat(b)
+    .concat(c)
+    .concat(d)
+    .concat(e)
+    .concat(f)
+    .concat(g)
+    .concat(h)
+    .concat(k)
+    .concat(j)
+    .concat(l)
