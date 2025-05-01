@@ -993,7 +993,7 @@ export let fortepianoSolo =
         {
             "videoUrl": "https://www.youtube.com/embed/pgDv6CrZFYE",
             "composition": "Л. Ревуцький. Прелюдія №2, тв.7",
-            "name": "Романюк Анна-Марія, 10 років",
+            "name": "Романюк Анна-Марія, 14 років",
             "id": {
                 "$oid": "111.7678902"
             },
