@@ -984,7 +984,7 @@ export let fortepianoSolo =
         {
             "videoUrl": "https://www.youtube.com/embed/qRajKSjFDF8",
             "composition": "М. Лисенко. Баркарола",
-            "name": "Романюк Анна-Марія, 10 років",
+            "name": "Романюк Анна-Марія, 14 років",
             "id": {
                 "$oid": "110.7678902"
             },
