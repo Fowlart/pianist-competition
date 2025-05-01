@@ -2,7 +2,7 @@ import styled from "styled-components";
 import React from "react";
 import {BiLinkExternal} from "react-icons/bi";
 import judges_2025 from "./info-page-imgs/judges_2025.jpeg"
-import poster_2 from "./rfs-page-imgs/rfs.png";
+import poster_2 from "./rfs-page-imgs/rfs.jpeg";
 import poster_1 from "./info-page-imgs/Poster_2025_ua.png";
 
 export const LinkContainer = styled.div`
@@ -82,9 +82,9 @@ export const InfoPage2 = () => {
 export const InfoPage = () => {
     return (<Wrapper>
             <LinkContainer>
-                <A href="https://docs.google.com/document/d/11DCmhXJRjgQ4PpAQUniL7e6BrTWsqAt2/edit?usp=drive_link&ouid=113883921299144449053&rtpof=true&sd=true">
+                <A href="https://docs.google.com/document/d/1DWiJl1oBIFH_IK4ZQeOQMx3f0jetL4iE/edit?usp=sharing&ouid=113883921299144449053&rtpof=true&sd=true">
                     <BiLinkExternal/> Положення</A>
-                <A href="https://docs.google.com/document/d/1OD0IkMgQBZX-ebBQfzs8X2mL1hJPoMLs/edit?usp=sharing&ouid=113883921299144449053&rtpof=true&sd=true">
+                <A href="https://docs.google.com/document/d/1ZCLezF1guj3lPMj4qD_3Xry1If-ujnQG/edit?usp=sharing&ouid=113883921299144449053&rtpof=true&sd=true">
                     <BiLinkExternal/> Організаційний комітет конкурсу </A>
             </LinkContainer>
             <br/>

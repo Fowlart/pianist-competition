@@ -5,20 +5,24 @@ import {HiOutlineExclamationCircle} from "react-icons/hi2";
 import {useDispatch, useSelector} from "react-redux";
 import useWindowDimensions from "../hooks/UseWindowDimensions";
 
+const InputWraperSection = styled.div`
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+`;
+
 export const Button = styled.div`
-    padding-top: 8px;
     text-align: center;
     margin-top: 14px;
     font-size: 25px;
     font-family: "Segoe UI", serif;
     width: 15%;
-    border: solid white 2px;
     color: white;
-    background-color: black;
     transition: all 0.5s;
 
     :hover {
-        border: solid darkred 2px;
         color: darkred;
     }`;
 
@@ -26,6 +30,7 @@ const Input = styled.input`
     font-size: 15px;
     flex-direction: column;
     color: ${props => props.inputColor || "palevioletred"};
+    margin-bottom: 15px;
 `;
 
 
@@ -40,8 +45,12 @@ const InputStyle = styled.div`
 const InputWraper = styled.div`
     display: flex;
     justify-content: space-between;
-    flex-direction: row;
+    flex-direction: column;
+    padding: 10px;
     height: 60px;
+    gap: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 `;
 
 const StyledSpan = styled.span`
@@ -85,18 +94,17 @@ export const RegularHeader = (props) => {
     }
 
     return (
-        <>
+        <InputWraperSection>
             <InputWraper>
                 <InputStyle>
-                    <StyledSpan><AiOutlineFileSearch/>Пошук відео по прізвищу учасника </StyledSpan>
                     <Input onKeyPress={handleKeyPress} ref={searchField} type="text"
                            placeholder="Введіть прізвище учасника..." inputColor="black"/>
+                    <Button value="" onClick={handler}>[Пошук]</Button>
                 </InputStyle>
-                <Button value="" onClick={handler}>Пошук</Button>
             </InputWraper>
             {error !== "" ? <Error><HiOutlineExclamationCircle/>{error}<HiOutlineExclamationCircle/></Error> : null}
             {props.cardCount === 0 ?
                 <Warn><HiOutlineExclamationCircle/>відео не знайдені<HiOutlineExclamationCircle/></Warn> : null}
-        </>
+        </InputWraperSection>
     )
 }
