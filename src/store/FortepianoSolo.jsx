@@ -874,9 +874,9 @@ export let fortepianoSolo =
             "group": "Номінація \"Фортепіано соло\""
         },
         {
-            "videoUrl": "https://www.youtube.com/embed/0ObUhLUNN8k?si=wFXhgnC_vd-Mlhnc",
+            "videoUrl": "https://www.youtube.com/embed/0ObUhLUNN8k",
             "composition": "1. І. Шамо. «Веснянка» з «Української сюїти»; 2. Я. Степовий. «Елегія», тв.5 №2",
-            "name": "Михайличенко Данііл, 11 років",
+            "name": "Михайличенко Даниїл, 11 років",
             "id": {
                 "$oid": "98.7678902"
             },
@@ -2148,6 +2148,15 @@ export let fortepianoSolo =
             "name": "Кулішкіна Олена",
             "id": {
                 "$oid": "1745964950.109"
+            },
+            "group": "Номінація \"Фортепіано соло\""
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/YOZzAsSMmYw",
+            "composition": "Л. Бетховен. Соната №17, тв.31№2",
+            "name": "Кулішкіна Олена",
+            "id": {
+                "$oid": "1745964950.1100"
             },
             "group": "Номінація \"Фортепіано соло\""
         }
