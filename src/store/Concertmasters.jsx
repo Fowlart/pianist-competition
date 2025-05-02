@@ -1,291 +1,363 @@
-export let concertmasters = [
-   {
-      "videoUrl": "https://www.youtube.com/embed/FqcP1JROpx8",
-      "composition": "Р. Глієр. «Романс»",
-      "name": "Андрющенко Катерина, 17.01.2013 р. н.",
-      "id": {
-         "$oid": "1714682587.7707279"
-      },
-      "group": "Номінація «Концертмейстер»"
-   },
-   {
-      "videoUrl": "https://www.youtube.com/embed/Kmhj3qfIgK4",
-      "composition": "Дж. Еллертон. Тарантела",
-      "name": "Андрющенко Катерина, 17.01.2013 р. н.",
-      "id": {
-         "$oid": "1714682587.7707374"
-      },
-      "group": "Номінація «Концертмейстер»"
-   },
-   {
-      "videoUrl": "https://www.youtube.com/embed/HFgWD0T7OHc",
-      "composition": "1) Ю. Мейтус. «Рекрутська»; 2) Л. Деліб. Мазурка з балету «Коппелія»",
-      "name": "Гиря Андрій, 23.05.2008 р. н.",
-      "id": {
-         "$oid": "1714682587.7707393"
-      },
-      "group": "Номінація «Концертмейстер»"
-   },
-   {
-      "videoUrl": "https://www.youtube.com/embed/UuitBHCltCw",
-      "composition": "В. Моцарт Рондо до мажор",
-      "name": "Горохівець Олександр, 16.11.2012 р. н.",
-      "id": {
-         "$oid": "1714682587.7707405"
-      },
-      "group": "Номінація «Концертмейстер»"
-   },
-   {
-      "videoUrl": "https://www.youtube.com/embed/W7xENFihga4",
-      "composition": "Українська народна пісня в обр. А. Бойко «Вже місяць сходить»",
-      "name": "Горохівець Олександр, 16.11.2012 р. н.",
-      "id": {
-         "$oid": "1714682587.770743"
-      },
-      "group": "Номінація «Концертмейстер»"
-   },
-   {
-      "videoUrl": "https://www.youtube.com/embed/Re3ysyTe9Ag",
-      "composition": "К. В. Глюк. Мелодія з опери «Орфей та Евридика»",
-      "name": "Губрієнко Софія, 11.11.2010 р. н.",
-      "id": {
-         "$oid": "1714682587.770744"
-      },
-      "group": "Номінація «Концертмейстер»"
-   },
-   {
-      "videoUrl": "https://www.youtube.com/embed/g427rwR1az8",
-      "composition": "Й. Губаї. Болеро",
-      "name": "Губрієнко Софія, 11.11.2010 р. н.",
-      "id": {
-         "$oid": "1714682587.770745"
-      },
-      "group": "Номінація «Концертмейстер»"
-   },
-   {
-      "videoUrl": "https://www.youtube.com/embed/9dTRyGmEvWI",
-      "composition": "1) О. Гончарук. Вальс; 2) Українська народні пісня «Місяць на небі» в обр. О. Агапової",
-      "name": "Зозуля Ілона, 26.10.2009 р. н.",
-      "id": {
-         "$oid": "1714682587.7707462"
-      },
-      "group": "Номінація «Концертмейстер»"
-   },
-   {
-      "videoUrl": "https://www.youtube.com/embed/FepAs99hQ1E",
-      "composition": "1) І. Бах Арія «Пристрасті за Матфеєм», фрагмент; 2) В. Косенко. Скерцино",
-      "name": "Чеснокова Мілана, 12.06.2013 р. н.",
-      "id": {
-         "$oid": "1714682587.7707472"
-      },
-      "group": "Номінація «Концертмейстер»"
-   },
-   {
-      "videoUrl": "https://www.youtube.com/embed/fMt1gx4VpRs",
-      "composition": "Муз. О. Білаша, сл. В. Юхимовича. «Журавка»",
-      "name": "Нотченко Вікторія, 28.07.2001 р. н.",
-      "id": {
-         "$oid": "1714682587.7707484"
-      },
-      "group": "Номінація «Концертмейстер»"
-   },
-   {
-      "videoUrl": "https://www.youtube.com/embed/ySL2d1pMBnY",
-      "composition": "М. Скорик. «Іспанський танець»",
-      "name": "Нотченко Вікторія, 28.07.2001 р. н.",
-      "id": {
-         "$oid": "1714682587.7707493"
-      },
-      "group": "Номінація «Концертмейстер»"
-   },
-   {
-      "videoUrl": "https://www.youtube.com/embed/CUQAO5cZU2I",
-      "composition": "М. Лисенко Елегія (пам'яті Т. Шевченка)",
-      "name": "Очиченко Катерина, 22.11.2004 р. н.",
-      "id": {
-         "$oid": "1714682587.7707505"
-      },
-      "group": "Номінація «Концертмейстер»"
-   },
-   {
-      "videoUrl": "https://www.youtube.com/embed/-RKwZm_DuyA",
-      "composition": "П. Шольц Фантазія на тему української народної пісні «Верховина»",
-      "name": "Очиченко Катерина, 22.11.2004 р. н.",
-      "id": {
-         "$oid": "1714682587.7707515"
-      },
-      "group": "Номінація «Концертмейстер»"
-   },
-   {
-      "videoUrl": "https://www.youtube.com/embed/azT_BuCLP5Y",
-      "composition": "Дж. Верді. Арія Леонори з опери «Сили долі»",
-      "name": "Яцішина Анна, 25.06.2005 р. н.",
-      "id": {
-         "$oid": "1714682587.7707524"
-      },
-      "group": "Номінація «Концертмейстер»"
-   },
-   {
-      "videoUrl": "https://www.youtube.com/embed/ge5-JoWId0o",
-      "composition": "М. Брух. 8 п'єс для фортепіано та кларнета: №5, «Rumanische Melodie»",
-      "name": "Яцішина Анна, 25.06.2005 р. н.",
-      "id": {
-         "$oid": "1714682587.7707534"
-      },
-      "group": "Номінація «Концертмейстер»"
-   },
-   {
-      "videoUrl": "https://www.youtube.com/embed/enfG2BUGcDc",
-      "composition": "І. Кушплер. «Ой, на горі роман цвіте»",
-      "name": "Іванческул Вікторія",
-      "id": {
-         "$oid": "1714682587.7707555"
-      },
-      "group": "Номінація «Концертмейстер»"
-   },
-   {
-      "videoUrl": "https://www.youtube.com/embed/1wjmCuYk8Ec",
-      "composition": "П. Сарасате. «Циганські наспіви»",
-      "name": "Іванческул Вікторія",
-      "id": {
-         "$oid": "1714682587.7707567"
-      },
-      "group": "Номінація «Концертмейстер»"
-   },
-   {
-      "videoUrl": "https://www.youtube.com/embed/r9RHkCXWjS4",
-      "composition": "1) О. Яковчук. «А вже весна»; 2) В.А. Моцарт. Арія Церліни з опери «Дон Жуан»",
-      "name": "Правосудович Анна",
-      "id": {
-         "$oid": "1714682587.7707577"
-      },
-      "group": "Номінація «Концертмейстер»"
-   },
-   {
-      "videoUrl": "https://www.youtube.com/embed/AC0pv40Qgt0",
-      "composition": "З. Фібіх. «Поема» для скрипки з фортепіано",
-      "name": "Присакару Надія, 14.02.2002 р. н.",
-      "id": {
-         "$oid": "1714682587.7707586"
-      },
-      "group": "Номінація «Концертмейстер»"
-   },
-   {
-      "videoUrl": "https://www.youtube.com/embed/m3HJk3wtjj4",
-      "composition": "К. Дебюссі. «Романс» ре мажор",
-      "name": "Присакару Надія, 14.02.2002 р. н.",
-      "id": {
-         "$oid": "1714682587.7707596"
-      },
-      "group": "Номінація «Концертмейстер»"
-   },
-   {
-      "videoUrl": "https://www.youtube.com/embed/WVzdHCbFPZU",
-      "composition": "Муз. О. Білаша, сл. М. Ткача. «Білі лебеді»",
-      "name": "Сухонос Світлана, 26.06.1971 р. н.",
-      "id": {
-         "$oid": "1714682587.7707608"
-      },
-      "group": "Номінація «Концертмейстер»"
-   },
-   {
-      "videoUrl": "https://www.youtube.com/embed/rtNOVW6mtz4",
-      "composition": "Л. Коган. Романс",
-      "name": "Сухонос Світлана, 26.06.1971 р. н.",
-      "id": {
-         "$oid": "1714682587.7707617"
-      },
-      "group": "Номінація «Концертмейстер»"
-   },
-   {
-      "videoUrl": "https://www.youtube.com/embed/YxpqkSuQbfs",
-      "composition": "Муз. Я. Лопатинського, сл. Л. Українки «Горить моє серце»",
-      "name": "Циганюк Марія, 29.04.2001 р. н.",
-      "id": {
-         "$oid": "1714682587.7707627"
-      },
-      "group": "Номінація «Концертмейстер»"
-   },
-   {
-      "videoUrl": "https://www.youtube.com/embed/qb_bygq2ufo",
-      "composition": "А. Дворжак. Сонатина соль мажор, 1 частина",
-      "name": "Циганюк Марія, 29.04.2001 р. н.",
-      "id": {
-         "$oid": "1714682587.7707636"
-      },
-      "group": "Номінація «Концертмейстер»"
-   },
-   {
-      "videoUrl": "https://www.youtube.com/embed/rfb9qXvxOhw",
-      "composition": "Муз. А. Комлікової, сл. Л. Дубас «Пісня про маму»",
-      "name": "Бистрицька Д.Д.",
-      "id": {
-         "$oid": "1714682587.7707648"
-      },
-      "group": "Номінація «Концертмейстер»"
-   },
-   {
-      "videoUrl": "https://www.youtube.com/embed/pjF0MOQkyCw",
-      "composition": "Українська пісня «Ой, у лузі» в авторській обробці",
-      "name": "Бистрицька Д.Д.",
-      "id": {
-         "$oid": "1714682587.7707672"
-      },
-      "group": "Номінація «Концертмейстер»"
-   },
-   {
-      "videoUrl": "https://www.youtube.com/embed/u0ivpuOjhb0",
-      "composition": "З. Абреу. «Тіко-тіко»",
-      "name": "Воюцька Є. М.",
-      "id": {
-         "$oid": "1714682587.7707682"
-      },
-      "group": "Номінація «Концертмейстер»"
-   },
-   {
-      "videoUrl": "https://www.youtube.com/embed/wXG6qrnTk6o",
-      "composition": "Українська колядка «Щедрик» (рок-версія)",
-      "name": "Воюцька Є. М.",
-      "id": {
-         "$oid": "1714682587.77077"
-      },
-      "group": "Номінація «Концертмейстер»"
-   }
-].concat([
-   {
-      "videoUrl": "https://www.youtube.com/embed/cnJLRz7m_fw",
-      "composition": "В. Сокальський. «Канцонета»",
-      "name": "Свірчевська Олівія, 20.03.2023 р.н.",
-      "id": {
-         "$oid": "1714767944.3784525"
-      },
-      "group": "Номінація «Концертмейстер»"
-   },
-   {
-      "videoUrl": "https://www.youtube.com/embed/8kj9WTcJI-s",
-      "composition": "К. Бом. «Галоп»",
-      "name": "Свірчевська Олівія, 20.03.2023 р.н.",
-      "id": {
-         "$oid": "1714767944.378463"
-      },
-      "group": "Номінація «Концертмейстер»"
-   },
-   {
-      "videoUrl": "https://www.youtube.com/embed/_iXvfrP2FDY",
-      "composition": "Т Віталі. Чакона",
-      "name": "Мудра-Шендера Ю.В.",
-      "id": {
-         "$oid": "1714767944.378465"
-      },
-      "group": "Номінація «Концертмейстер»"
-   },
-   {
-      "videoUrl": "https://www.youtube.com/embed/RBZkoAItkKg",
-      "composition": "Е. Млинарський. Мазурка",
-      "name": "Мудра-Шендера Ю.В.",
-      "id": {
-         "$oid": "1714767944.3784664"
-      },
-      "group": "Номінація «Концертмейстер»"
-   }
-])
+export let concertmasters =
+    [
+       {
+          "videoUrl": "https://www.youtube.com/embed/d7VdEfPCy50",
+          "composition": "1.В. Васильєва. «Між хмаринок»; 2.Українська народна пісні в обр. Ю. Островського «Їхав козак за   Дунай»",
+          "name": "Белименко Петро, 11 років",
+          "id": {
+             "$oid": "1746044719.9695754"
+          },
+          "group": "Номінація «Концертмейстер»"
+       },
+       {
+          "videoUrl": "https://www.youtube.com/embed/APPpb-Wms0M",
+          "composition": "Сл. і муз. У. Музики. «Мур, мур, любимо гламур»",
+          "name": "Ващук Анна, 12 років",
+          "id": {
+             "$oid": "1746044720.011782"
+          },
+          "group": "Номінація «Концертмейстер»"
+       },
+       {
+          "videoUrl": "https://www.youtube.com/embed/-9Ckc_BkWng",
+          "composition": "Сл. Г. Фальковича, муз. І. Олійник. «Не давайте мені їсти»",
+          "name": "Ващук Анна, 12 років",
+          "id": {
+             "$oid": "1746044720.0527613"
+          },
+          "group": "Номінація «Концертмейстер»"
+       },
+       {
+          "videoUrl": "https://www.youtube.com/embed/BWbC1YWn4bw?si=lrWLp09YKbQ0bq5M",
+          "composition": "А. Кушнаренко. «Мелодія літа»",
+          "name": "Єфименко Анастасія, 14 років",
+          "id": {
+             "$oid": "1746044720.0943873"
+          },
+          "group": "Номінація «Концертмейстер»"
+       },
+       {
+          "videoUrl": "https://www.youtube.com/embed/L0_oWl2lgC8?si=dp6mfETt2Y0Lhig0",
+          "composition": "Обр. Г. Баринової, форт. обр. А. Лаптевої «Українська плясова»",
+          "name": "Єфименко Анастасія, 14 рокі",
+          "id": {
+             "$oid": "1746044720.135305"
+          },
+          "group": "Номінація «Концертмейстер»"
+       },
+       {
+          "videoUrl": "https://www.youtube.com/embed/w-RZ1VvZD0U",
+          "composition": "О. Удов. «Козачок»",
+          "name": "Зарва Глафіра, 9 років",
+          "id": {
+             "$oid": "1746044720.176485"
+          },
+          "group": "Номінація «Концертмейстер»"
+       },
+       {
+          "videoUrl": "https://www.youtube.com/embed/wmPcg8G5yck",
+          "composition": "В. Моцарт. Вальс",
+          "name": "Зарва Глафіра, 9 років",
+          "id": {
+             "$oid": "1746044720.2180603"
+          },
+          "group": "Номінація «Концертмейстер»"
+       },
+       {
+          "videoUrl": "https://www.youtube.com/embed/s1HEeIYPxiQ",
+          "composition": "1.І. Поклад. «Скрипка гра; 2.Ю. Островський. «Концертна полька»",
+          "name": "Лучко Ярослава, 13 років",
+          "id": {
+             "$oid": "1746044720.2591207"
+          },
+          "group": "Номінація «Концертмейстер»"
+       },
+       {
+          "videoUrl": "https://www.youtube.com/embed/UWvtFV5UOrk?si=Nwlmfe2AH42UwVuJ",
+          "composition": "Муз. Б. Янівського, сл. Б. Стельмаха. «Колискова для матері»",
+          "name": "Мамчак Уляна, 13 років",
+          "id": {
+             "$oid": "1746044720.3002183"
+          },
+          "group": "Номінація «Концертмейстер»"
+       },
+       {
+          "videoUrl": "https://www.youtube.com/embed/_oFM7UPszz0?si=Oe-eRfOS40MgldLa",
+          "composition": "А. Курчі. Чардаш",
+          "name": "Мамчак Уляна, 13 років",
+          "id": {
+             "$oid": "1746044720.3411236"
+          },
+          "group": "Номінація «Концертмейстер»"
+       },
+       {
+          "videoUrl": "https://www.youtube.com/embed/oasUwTPlJVM",
+          "composition": "Г. Хілле. Чардаш",
+          "name": "Парташнікова Ксенія, 9 років",
+          "id": {
+             "$oid": "1746044720.3824356"
+          },
+          "group": "Номінація «Концертмейстер»"
+       },
+       {
+          "videoUrl": "https://www.youtube.com/embed/VVylpJJTWgI",
+          "composition": "Л. Шукайло. «Осяння пісня»",
+          "name": "Парташнікова Ксенія, 9 років",
+          "id": {
+             "$oid": "1746044720.4233801"
+          },
+          "group": "Номінація «Концертмейстер»"
+       },
+       {
+          "videoUrl": "https://www.youtube.com/embed/30wf1AMfsZk",
+          "composition": "1.Е. Джонс. «Чечітка»; 2.О. Соловйова. «Слон і тромбон»",
+          "name": "Пучков Артем, 9 років",
+          "id": {
+             "$oid": "1746044720.4653008"
+          },
+          "group": "Номінація «Концертмейстер»"
+       },
+       {
+          "videoUrl": "https://www.youtube.com/embed/9E8G04KGJ1k?feature=shared",
+          "composition": "А. Вівальді. «Vieni, Vieni o mio diletto»",
+          "name": "Резнікова Еммануїла,16 років",
+          "id": {
+             "$oid": "1746044720.506437"
+          },
+          "group": "Номінація «Концертмейстер»"
+       },
+       {
+          "videoUrl": "https://www.youtube.com/embed/9vjjPAcik3M?si=moKMhm31YmvBlgiN",
+          "composition": "Обр. С. Людкевича. «Гагілка»",
+          "name": "Резнікова Еммануїла,16 років",
+          "id": {
+             "$oid": "1746044720.5477862"
+          },
+          "group": "Номінація «Концертмейстер»"
+       },
+       {
+          "videoUrl": "https://www.youtube.com/embed/Hn1ZmzWcpD0",
+          "composition": "1.Українська народна пісня в обр. А. Єдлічки, переклад В. Стеценка. «Стоїть явір над водою»; 2.К. Стеценко. «На весіллі у селі»",
+          "name": "Чеснокова Мілана, 11 років",
+          "id": {
+             "$oid": "1746044720.5889373"
+          },
+          "group": "Номінація «Концертмейстер»"
+       },
+       {
+          "videoUrl": "https://www.youtube.com/embed/QlzbkE8xudU?si=EzpF-aQtNakRDnNe",
+          "composition": "Ф. Шуберт. «An die music»",
+          "name": "Чорний Володимир, 13 років",
+          "id": {
+             "$oid": "1746044720.6297815"
+          },
+          "group": "Номінація «Концертмейстер»"
+       },
+       {
+          "videoUrl": "https://www.youtube.com/embed/hkRJArybBUI?si=yZmQj42-0pOWWOX2",
+          "composition": "С. Монюшко. «Багатель»",
+          "name": "Чорний Володимир, 13 років",
+          "id": {
+             "$oid": "1746044720.6715372"
+          },
+          "group": "Номінація «Концертмейстер»"
+       },
+       {
+          "videoUrl": "https://www.youtube.com/embed/6-8-dggUG88?si=RkPvJRHQuxeyIJT5",
+          "composition": "А. Кос-Анатольський. «Ой, ти дівчино з горіха зерня»",
+          "name": "Крутоуз Анастасія",
+          "id": {
+             "$oid": "1746044720.7128353"
+          },
+          "group": "Номінація «Концертмейстер»"
+       },
+       {
+          "videoUrl": "https://www.youtube.com/embed/7yKrDXMUAGE?si=2hXrN1LEaS08oO3u",
+          "composition": "Ф. Амодіо. «Північний вальс»",
+          "name": "Крутоуз Анастасія",
+          "id": {
+             "$oid": "1746044720.7538311"
+          },
+          "group": "Номінація «Концертмейстер»"
+       },
+       {
+          "videoUrl": "https://www.youtube.com/embed/K3c6-UNgeMw",
+          "composition": "1.В.А. Моцарт. «Аllelua» з мотету «Exsultate, jubilate»; 2.С. Гастальдон. «Musica proibita»",
+          "name": "Сухаревська Поліна",
+          "id": {
+             "$oid": "1746044720.7950425"
+          },
+          "group": "Номінація «Концертмейстер»"
+       },
+       {
+          "videoUrl": "https://www.youtube.com/embed/dMaYu0zSJW8?si=Hxudh4is1lx9yKVb",
+          "composition": "1.Муз. Г. Алчевського, сл. Х. Алчевської. «Душа се конвалія ніжна»; 2.В.А. Моцарт. Арія Дорабелли з опери «Так чинять всі»",
+          "name": "Бакай Людмила",
+          "id": {
+             "$oid": "1746044720.8357003"
+          },
+          "group": "Номінація «Концертмейстер»"
+       },
+       {
+          "videoUrl": "https://www.youtube.com/embed/fDOenQh9Lfk?si=sqiW_kII11o7qzIP",
+          "composition": "1.Б. Лятошинський. «Елегія»; 2.В.А. Моцарт. Арія Фігаро з опери «Весілля Фігаро»",
+          "name": "Боднар Лія",
+          "id": {
+             "$oid": "1746044720.8768594"
+          },
+          "group": "Номінація «Концертмейстер»"
+       },
+       {
+          "videoUrl": "https://www.youtube.com/embed/XkEjt13uufA?si=nphORnEHN-m1Zeu-",
+          "composition": "1.Ж. Бізе. Арія Мікаели з опери «Кармен»; 2.М. Вериківський. Пісня",
+          "name": "Капрій Аліна",
+          "id": {
+             "$oid": "1746044720.9177585"
+          },
+          "group": "Номінація «Концертмейстер»"
+       },
+       {
+          "videoUrl": "https://www.youtube.com/embed/uLI9-JjQQ2U?feature=shared",
+          "composition": "1.К. Дебюссі. «Fantoches; 2.А. Кос-Анатольський. Арія Галі з опери «Заграва»",
+          "name": "Мандроцин Наталія",
+          "id": {
+             "$oid": "1746044720.9591157"
+          },
+          "group": "Номінація «Концертмейстер»"
+       },
+       {
+          "videoUrl": "https://www.youtube.com/embed/A0Nf9Zg1fd0",
+          "composition": "1.Л. Бетховен. Арія Дорабелли з опери «Фіделіо»; 2.Б. Фільц, Леся Українка. «Лебедина пісня»",
+          "name": "Мацьків Ірина",
+          "id": {
+             "$oid": "1746044721.0000377"
+          },
+          "group": "Номінація «Концертмейстер»"
+       },
+       {
+          "videoUrl": "https://www.youtube.com/embed/gPtGqX0RKqk",
+          "composition": "1.Ф. Надененко. «Сльози»; 2.Ф. Крейслер. «Маленький віденський марш»",
+          "name": "Петько Вікторія",
+          "id": {
+             "$oid": "1746044721.041146"
+          },
+          "group": "Номінація «Концертмейстер»"
+       },
+       {
+          "videoUrl": "https://www.youtube.com/embed/VREwjmE-2TI?si=shxzKWAHaQWlmWMH",
+          "composition": "1.Р. Шуман. «Присвята»; 2.В. Барвінський. «Анданте»",
+          "name": "Тарадай Анастасія",
+          "id": {
+             "$oid": "1746044721.082"
+          },
+          "group": "Номінація «Концертмейстер»"
+       },
+       {
+          "videoUrl": "https://www.youtube.com/embed/YK03nvrAyys?si=qtsthpjDIzxJYFE5",
+          "composition": "1.Г. Кассадо. «Requiebros»; 2.Муз. Є. Козака, сл. Г. Коваля. «Спать не дають солов’ї»",
+          "name": "Щербак Варвара",
+          "id": {
+             "$oid": "1746044721.122907"
+          },
+          "group": "Номінація «Концертмейстер»"
+       },
+       {
+          "videoUrl": "https://www.youtube.com/embed/9FndHaHDtZM?si=ccEAuIpYRtZTazdz",
+          "composition": "Обр. А. Лисянської. «Летіла зозуля»",
+          "name": "Кобзар Майя Іванівна",
+          "id": {
+             "$oid": "1746044721.164144"
+          },
+          "group": "Номінація «Концертмейстер»"
+       },
+       {
+          "videoUrl": "https://www.youtube.com/embed/GVksrjSQ280?si=lOSzzVALpDgxECX2",
+          "composition": "Обр. К. Савченко. Попурі на теми українських пісень",
+          "name": "Кобзар Майя Іванівна",
+          "id": {
+             "$oid": "1746044721.2054281"
+          },
+          "group": "Номінація «Концертмейстер»"
+       },
+       {
+          "videoUrl": "https://www.youtube.com/embed/t5EI1ZtCuLE",
+          "composition": "Н. Гланцберг, аранж. М.В. Цибченко. «Падам, падам»",
+          "name": "Ольховська Олеся Петрівна",
+          "id": {
+             "$oid": "1746044721.2469053"
+          },
+          "group": "Номінація «Концертмейстер»"
+       },
+       {
+          "videoUrl": "https://www.youtube.com/embed/TBpUGzjea-0",
+          "composition": "Д Джохов. «Tango for Pachebel»",
+          "name": "Ольховська Олеся Петрівна",
+          "id": {
+             "$oid": "1746044721.288063"
+          },
+          "group": "Номінація «Концертмейстер»"
+       },
+       {
+          "videoUrl": "https://www.youtube.com/embed/JqlO8zabI3A",
+          "composition": "1.Муз. К. Стеценка, сл. Т.Шевченка. «Плавай, плавай, лебеденько»; 2.Дж. Каріссімі. «Vittoria, Mio Core»",
+          "name": "Корольова-Жук Тетяна Іванівна",
+          "id": {
+             "$oid": "1746044721.3293905"
+          },
+          "group": "Номінація «Концертмейстер»"
+       },
+       {
+          "videoUrl": "https://www.youtube.com/embed/PKZ8zPYLLJA?si=QhojU49OQ9JGUJ6L",
+          "composition": "Українська народна пісня в обр. А. Кос-Анатольського. «Марічка-чічка»",
+          "name": "Подніжна Валерія Станіславівна",
+          "id": {
+             "$oid": "1746044721.3708208"
+          },
+          "group": "Номінація «Концертмейстер»"
+       },
+       {
+          "videoUrl": "https://www.youtube.com/embed/xXn_1ZrnKMQ?si=liTQHH9rpK0AR4_",
+          "composition": "Муз. О. Янушкевича, сл. М. Ясокової. «Молитва матері»",
+          "name": "Подніжна Валерія Станіславівна",
+          "id": {
+             "$oid": "1746044721.4120195"
+          },
+          "group": "Номінація «Концертмейстер»"
+       },
+       {
+          "videoUrl": "https://www.youtube.com/embed/U7Kuna_5oc8?si=K3VCIQfuIz5ve8Gz",
+          "composition": "Ф. Сінатра, обр. Н. Тихобразової та О. Павлусь. «The world we know»",
+          "name": "Тихобразова Наталя Миколаївна",
+          "id": {
+             "$oid": "1746044721.453325"
+          },
+          "group": "Номінація «Концертмейстер»"
+       },
+       {
+          "videoUrl": "https://www.youtube.com/embed/8-RYx53YvY0?feature=shared",
+          "composition": "М. Леонтович, кавер Л. Стірлінг, обр. Н. Тихобразової та О. Павлусь. «Щедрик»",
+          "name": "Тихобразова Наталя Миколаївна",
+          "id": {
+             "$oid": "1746044721.4945984"
+          },
+          "group": "Номінація «Концертмейстер»"
+       },
+       {
+          "videoUrl": "https://www.youtube.com/embed/sVne5XuKZPs?si=MQOEme9ykb69QvSF",
+          "composition": "В.А. Моцарт. Речетатив і арія Фігаро з опери «Вісілля Фігаро»",
+          "name": "Березовенко Ольга Григорівна",
+          "id": {
+             "$oid": "1746044721.5359716"
+          },
+          "group": "Номінація «Концертмейстер»"
+       },
+       {
+          "videoUrl": "https://www.youtube.com/embed/xjP2boesRJ8?si=4pNK8jn510yb_fs1",
+          "composition": "М. Лисенко. Речитатив і арія Остапа з опери» «Тарас Бульба»",
+          "name": "Березовенко Ольга Григорівна",
+          "id": {
+             "$oid": "1746044721.577398"
+          },
+          "group": "Номінація «Концертмейстер»"
+       }
+    ]

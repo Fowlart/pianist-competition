@@ -1,6 +1,7 @@
 import React, {useEffect, useState} from "react";
 import styled from "styled-components";
-import {AiFillPlaySquare, BsFillPersonFill, FaBookOpen} from "react-icons/all";
+import {FaBookOpen} from "react-icons/fa";
+import {BsFillPersonFill} from "react-icons/bs";
 import useWindowDimensions from "../hooks/UseWindowDimensions";
 
 const FilmWrapper = styled.div`

@@ -1,7 +1,7 @@
 import React, {useEffect, useRef, useState} from "react";
 import styled, {keyframes} from "styled-components";
 import {useDispatch, useSelector} from "react-redux";
-import {FaFolder, FaUniversity} from "react-icons/all";
+import {FaFolder, FaUniversity} from "react-icons/fa";
 import useWindowDimensions from "../hooks/UseWindowDimensions";
 
 const FilterContainer = styled.div`
@@ -14,6 +14,7 @@ const FilterContainer = styled.div`
   flex-direction: row;
   justify-content: left;
   margin-top: 26px;
+    padding-top: 26px;
   flex-wrap: wrap;`;
 
 const FilterSection = styled(FilterContainer)`
