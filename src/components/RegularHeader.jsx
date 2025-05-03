@@ -38,8 +38,8 @@ const InputStyle = styled.div`
     font-size: 20px;
     display: flex;
     flex-direction: column;
-    width: 60%;
-    height: 50%;
+   // width: 60%;
+    // height: 50%;
 `;
 
 const InputWraper = styled.div`
