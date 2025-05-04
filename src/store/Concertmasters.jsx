@@ -361,7 +361,7 @@ export let concertmasters =
           "group": "Номінація «Концертмейстер»"
        },
         {
-            "videoUrl": "https://www.youtube.com/embed/RMHe9l5giz0?si=8qpjsHocPVFXuYKw",
+            "videoUrl": "https://www.youtube.com/embed/H_1YBW3IJxU?si=e2pNePmoistFlMPg",
             "composition": "Г. Майборода. \"Гаї шумлять\"",
             "name": "Ричков Іван",
             "id": {
@@ -370,7 +370,7 @@ export let concertmasters =
             "group": "Номінація «Концертмейстер»"
         },
         {
-            "videoUrl": "https://www.youtube.com/embed/H_1YBW3IJxU?si=e2pNePmoistFlMPg",
+            "videoUrl": "https://www.youtube.com/embed/RMHe9l5giz0?si=8qpjsHocPVFXuYKw",
             "composition": "Дж. Пуччіні. Арія Лауретти з опери \"Джанні Скіккі\"",
             "name": "Ричков Іван",
             "id": {
