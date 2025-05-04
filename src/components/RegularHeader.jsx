@@ -14,7 +14,6 @@ const InputWraperSection = styled.div`
 `;
 
 export const Button = styled.div`
-    text-align: center;
     margin-top: 14px;
     font-size: 25px;
     font-family: "Segoe UI", serif;
@@ -37,10 +36,7 @@ const Input = styled.input`
 const InputStyle = styled.div`
     font-size: 20px;
     display: flex;
-    flex-direction: column;
-   // width: 60%;
-    // height: 50%;
-`;
+    flex-direction: column;`;
 
 const InputWraper = styled.div`
     display: flex;
