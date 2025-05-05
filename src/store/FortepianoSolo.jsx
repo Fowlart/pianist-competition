@@ -739,15 +739,6 @@ export let fortepianoSolo =
             "group": "Номінація \"Фортепіано соло\""
         },
         {
-            "videoUrl": "https://www.youtube.com/embed/2GcnyFlt_zY?feature=share",
-            "composition": "1. М. Меєр. «Бароко»; 2.Н. Нижанківський. Коломийка",
-            "name": "Козубовська Аніта, 11 років",
-            "id": {
-                "$oid": "83.7678902"
-            },
-            "group": "Номінація \"Фортепіано соло\""
-        },
-        {
             "videoUrl": "https://www.youtube.com/embed/hUp-y3u6BaA",
             "composition": "1.О. Спіліоті. «Гуцулята»; 2.Р. Лісова. Елегія «Ти в думках моїх»",
             "name": "Колядич Ельвіра, 11 років",
