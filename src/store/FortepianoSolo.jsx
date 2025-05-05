@@ -2159,5 +2159,23 @@ export let fortepianoSolo =
                 "$oid": "1745964950.1100"
             },
             "group": "Номінація \"Фортепіано соло\""
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/2GcnyFlt_zY",
+            "composition": "Н.Нижанківський. Коломийка",
+            "name": "Козубовська Аніта, 11 років",
+            "id": {
+                "$oid": "1745964950.1101"
+            },
+            "group": "Номінація \"Фортепіано соло\""
+        },
+        {
+            "videoUrl": "https://drive.google.com/file/d/1T_PkOBilMTSUgdUrIeZiHvMMhFZjWoVz/preview",
+            "composition": "М.Маєр. \"Барокко\"",
+            "name": "Козубовська Аніта, 11 років",
+            "id": {
+                "$oid": "1745964950.1102"
+            },
+            "group": "Номінація \"Фортепіано соло\""
         }
     ]
