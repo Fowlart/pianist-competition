@@ -2168,5 +2168,23 @@ export let fortepianoSolo =
                 "$oid": "1745964950.1102"
             },
             "group": "Номінація \"Фортепіано соло\""
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/tkfoYylGsv4",
+            "composition": "Ф. Шопен. Етюд ор.25 №1",
+            "name": "Бейріт Вікторія",
+            "id": {
+                "$oid": "1745964950.1104"
+            },
+            "group": "Номінація \"Фортепіано соло\""
+        },
+        {
+            "videoUrl": "https://www.youtube.com/embed/GIvfuShu74g",
+            "composition": "Ф. Шопен. Ноктюрн ор.9 №2",
+            "name": "Бейріт Вікторія",
+            "id": {
+                "$oid": "1745964950.1105"
+            },
+            "group": "Номінація \"Фортепіано соло\""
         }
     ]
